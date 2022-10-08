@@ -8,10 +8,16 @@ cache:
         - node_modules
 
 pages:
+    before_script:
+        # Clean public folder
+        - find public -mindepth 1 -maxdepth 1 -type d | xargs rm -rf
+        - find public -type f -name "*.html" | xargs rm -rf
     script:
-        - npm run build
-        - npm run export
+        # Build application and move content to public folder
+        - npm run build && npm run export # Eq. to 'next build && next export'
         - mv out/* public
+    after_script:
+        # Cleanup
         - rm -rf out
     artifacts:
         paths:
