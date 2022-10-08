@@ -15,14 +15,12 @@ pages:
   stage: deploy
   image: "cirrusci/flutter:latest"
   script:
-    - flutter build web --web-renderer html
-    - echo -e "<script>(function () {document.write('<base href=\"' + document.location.pathname + '\" />');}());</script>\n$(cat build/web/index.html)" > build/web/index.html
+    - flutter build web --web-renderer html --release --base-href="/thailand-ris/"
     - ls build/web
     - rm -rf build/web/canvaskit
     - cp -r build/web public
     - cp -r build/web/index.html ./web/404.html
     - mv ./web/404.html public/
-    - echo -e "<script>(function () {document.write('<base href=\"' + document.location.pathname + '\" />');}());</script>\n$(cat public/index.html)" > public/index.html
     - ls public
   artifacts:
     paths:
