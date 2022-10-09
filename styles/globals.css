@@ -27,12 +27,15 @@ header{
 }
 nav{
   display: flex;
-  position: sticky;
+  position: fixed;
+  top: 0;
+  left: 0;
   width: 100%;
   padding: 18px 24px;
   justify-content: space-between;
   background-color: white;
   color: rgb(48, 63, 123);
+  box-shadow:  1px 0px 8px rgb(0, 0, 0);
   
 }
 .nav__menu-bar{
@@ -125,9 +128,10 @@ nav{
   align-items: center;
   align-content: center;
   align-self: center;
-  padding-top: 50px;
+  padding-top: 120px;
   padding: auto;
-  height: 91.5vh;
+  height: 100vh;
+  width: 100%;
   background: linear-gradient(to right bottom,rgb( 63, 81, 181),white);
 }
  
@@ -255,4 +259,9 @@ h3 {
 .row{
   display: flex;
   flex-direction: row;
+}
+
+.membertag{
+  font-family: "druk";
+  color: rgb(105, 135, 201);
 }
