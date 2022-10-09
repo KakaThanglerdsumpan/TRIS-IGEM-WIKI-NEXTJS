@@ -12,7 +12,10 @@ const HomePage = ({ children }) => {
             <h1 class = 'heading'>PROMOTIONAL VIDEO</h1>
             <p>loremipsumasdfasdfasdfasdf
                 adfsadf
-                asdfa
+                asdfafasdfad
+                fadf
+                adfsadfdfadsfasdfasdfasdfasdfasdfasdfasdfasdfadsf
+                asdfasdfasdfadfasdfadsfadfadsf
                 sdfa
                 sdfasdf
             </p>
