@@ -222,3 +222,37 @@ h3 {
   color: rgb(105, 135, 201);
   font-family: 'druk';
 }
+
+.rounded-container{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  border: solid;
+  border-width: 2px;
+  border-color: rgb(105, 135, 201);
+  border-radius: 50px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  height: 80;
+  width: 50%;
+  border-left-width: 0;
+  padding-left: 20px;
+  
+
+}
+
+.circle{
+  margin-left: 40px;
+  border: solid;
+  border-width: 2px;
+  border-color: rgb(105, 135, 201);
+  border-radius: 50px;
+  height: 80px;
+  width: 80px;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+}
