@@ -12,7 +12,7 @@ function DropDowns(props: any) {
                                 {({ active }) => (
                                     <a
                                         className={`${active && 'bg-blue-500'}`}
-                                        href={`/ + ${val}`}
+                                        href={`/${val}`}
                                     >
                                         {val}
                                     </a>
