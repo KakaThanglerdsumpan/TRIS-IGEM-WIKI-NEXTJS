@@ -1,17 +1,15 @@
-import '../styles/globals.sass'
+import '../styles/globals.css'
+import Navbar from '../components/Navbar'
+import Bottombar from '../components/Bottombar'
 import type { AppProps } from 'next/app'
-import Main from '../components/layouts/main'
-import Navbar from '../components/navbar.tsx'
 
 function MyApp({ Component, pageProps }: AppProps) {
-    return (
-        <div>
-            <Main>
-                <Navbar />
-                <Component {...pageProps} />
-            </Main>
-        </div>
-    )
+  return <>
+  <Navbar/>
+  <Component {...pageProps} />
+  <Bottombar/>
+  </>
+
 }
 
 export default MyApp
