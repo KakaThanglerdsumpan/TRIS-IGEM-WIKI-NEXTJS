@@ -12,7 +12,7 @@ function Safety({ children }) {
             <b>
             At the current stage of our project, the modified bombolitin antimicrobial peptide has not been developed 
             into a product yet. However, looking at the results of in-vitro testing, the modified bombolitin antimicrobial 
-            peptide is capable of inhibiting <i>Ralstonia</i>. Since there are currently no other effective ways to solve the 
+            peptide is capable ofasdfadfasdfadfadsasdfsdfdsfdsfadfa inhibiting <i>Ralstonia</i>. Since there are currently no other effective ways to solve the 
             problem of bacterial wilt, our project will be beneficial to producers of solanaceous crops. 
             If developed into a product, the modified bombolitin antimicrobial peptide can be used in the form of a spray 
             that will be applied into the soil since <i>Ralstonia</i> is a soil-borne pathogen. This way, the modified bombolitin 
