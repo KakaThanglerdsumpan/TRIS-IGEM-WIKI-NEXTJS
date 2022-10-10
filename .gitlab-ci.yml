@@ -1,20 +1,27 @@
 image: node
 
 before_script:
-  - npm install
+    - npm install
 
 cache:
-  paths:
-    - node_modules/
-    - .next/cache/
+    paths:
+        - node_modules
 
 pages:
-  script:
-    - npm run build && npm run export
-    - rm -rf public/*
-    - mv out public
-  artifacts:
-    paths:
-      - public
-  only:
-    - main
+    before_script:
+        # Clean public folder
+        - find public -mindepth 1 -maxdepth 1 -type d | xargs rm -rf
+        - find public -type f -name "*.html" | xargs rm -rf
+    script:
+        # Build application and move content to public folder
+        - npm run build && npm run export # Eq. to 'next build && next export'
+        - mv out/* public
+    after_script:
+        # Cleanup
+        - rm -rf out
+    artifacts:
+        paths:
+            - public
+    only:
+        - main
+
