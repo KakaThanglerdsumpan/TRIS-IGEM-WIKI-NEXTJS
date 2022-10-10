@@ -190,7 +190,7 @@ function Collaborations({ children }) {
             <div class = "myheader">
                 <div class = "rounded-container">
                     <h1 class = 'header2'>Virtual Meeting with iGEM Guelph
-</h1>
+            </h1>
                 </div>
                 <div class = "circle1"></div>
             </div>
