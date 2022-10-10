@@ -13,7 +13,11 @@ pages:
     - npm run build && npm run export
     - rm -rf public/*
     - ls
-    - mv out public
+    - mv out/* public
+    - ls
+  after_script:
+    - rm -rf out
+    - ls
   artifacts:
     paths:
       - public
