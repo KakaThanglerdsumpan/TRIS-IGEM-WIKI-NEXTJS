@@ -36,7 +36,11 @@ nav{
   background-color: white;
   color: rgb(48, 63, 123);
   box-shadow:  2px 0px 8px rgb(112, 112, 112);
-  
+}
+
+p{
+  word-spacing: 2px;
+  line-height: 28px;
 }
 .nav__menu-bar{
   display: flex;
@@ -88,6 +92,10 @@ nav{
   nav{
     padding: 0px;
   }
+  .indented{
+    margin:auto;
+    width: 1000px;
+  }
   .logo{
     display: none;
   }
@@ -132,7 +140,16 @@ nav{
   width: 100%;
   background: linear-gradient(to right bottom,rgb( 63, 81, 181),white);
 }
- 
+.titleScreen1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 70px;
+  height: 50vh;
+  background-image: url("https://static.igem.wiki/teams/4314/wiki/gradient.svg");
+  background: linear-gradient(to right bottom,rgb( 63, 81, 181),white);
+}
 .title{
   text-align: center;
   color: white;
@@ -141,7 +158,16 @@ nav{
   font-weight: lighter;
 }
 
+.titlescreentext{
+  text-align: center;
+  color: white;
+  font-size: 80px;
+  font-family: 'rockabye';
+  font-weight: lighter;
+}
+
 .description{
+  width: 1000px;
   text-align: center;
   padding-bottom: 20px;
   color: white;
@@ -152,16 +178,20 @@ nav{
   margin: auto;
 }
 
+.center-horizontal{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .logo{
   font-family: 'druk';
 }
 
 .body{
+  height: fit-content;
   margin: 50px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-
 }
 .heading {
   font-family: 'rockabye';
@@ -206,23 +236,35 @@ white;
   transform-origin: bottom left;
 }
 
-.titleScreen1{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding-top: 70px;
-  height: 50vh;
-  background-image: url("https://static.igem.wiki/teams/4314/wiki/gradient.svg");
-  background: linear-gradient(to right bottom,rgb( 63, 81, 181),white);
-}
-
 .header1{
   color: rgb(105, 135, 201);
   font-family: 'druk';
 }
 
+.header2{
+  color: white;
+  font-family: 'druk';
+}
+
 .rounded-container{
+  min-width: 500px;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  background-color: rgb(105, 135, 201);
+  color: white;
+  border-radius: 50px;
+  width: fit-content;
+  margin-bottom: 20px;
+  border-left-width: 0;
+  padding: 10px 30px;
+  font-family: 'druk';
+}
+
+
+.rounded-container1{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -237,8 +279,6 @@ white;
   width: 50%;
   border-left-width: 0;
   padding-left: 20px;
-  
-
 }
 
 .circle{
@@ -251,7 +291,16 @@ white;
   width: 80px;
 }
 
+.circle1{
+  margin-left: 40px;
+  border-radius: 50px;
+  height: 80px;
+  background-color: rgb(105, 135, 201);
+  width: 80px;
+}
+
 .row{
+  width: 100%;
   display: flex;
   flex-direction: row;
 }
@@ -276,6 +325,101 @@ white;
   margin-top: 25px;
 }
 
-.sizedbox110{
-  height: 110px;
+.sizedbox100{
+  height: 100px;
+}
+
+.sizedbox60{
+  height: 60px;
+}
+
+.sizedbox30{
+  height: 30px;
+}
+
+.sizedbox10{
+  height: 10px;
+}
+
+.indented {
+  text-indent: 60px;
+}
+
+.fitimage{
+  width: 1000px;
+  object-fit: contain;
+}
+.imageheader{
+  width: 1000px;
+  text-align: left;
+}
+
+
+@media screen and (max-width: 1100px) {
+  .titlescreentext{
+    font-size: 9vw;
+  }
+  .fitimage{
+    width: 100%;
+  }
+  .imageheader{
+    width: 100%;
+  }
+  .myheader{
+    width: 100%;
+    font-size: small;
+  }
+}
+.myheader{
+  margin:auto;
+  display: flex;
+  flex-direction: row;
+  width: 1000px;
+}
+
+
+
+@media screen and (max-width: 900px){
+  .myheader{
+    width: 100%;
+    font-size: x-small;
+  }
+  .rounded-container{
+    min-width: 0;
+    width: calc(100% - 120px);
+    overflow-wrap: break-word;
+  }
+}
+
+.sponsorimg{
+  width: 200px;
+  object-fit: contain;
+}
+@media  screen and (max-width: 550px) {
+  .sponsorimg{
+    width: 30%;
+  }
+  .bottombar{
+    font-size: small;
+  }
+}
+
+@media  screen and (max-width: 500px) {
+  .body{
+    margin: 20px;
+  }  
+  .myheader{
+    font-size: xx-small;
+  }
+  .rounded-container{
+    width: calc(100%);
+    margin-right: 0px;
+  }
+  .circle1{
+    display: none;
+  }
+  .titleScreen1{
+    height: 30vh;
+  }
+
 }
