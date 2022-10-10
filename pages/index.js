@@ -4,6 +4,7 @@ const HomePage = ({ children }) => {
 
         <div class = "titleScreen">
           <div class = "column">
+            <div class =  "sizedbox110"/>
             <h1 class = "title">THAILAND_RIS</h1>
             <h2 class = "description">Simple Description</h2>
             <img src = "https://static.igem.wiki/teams/4314/wiki/igemlogopurple.png" width = {630} height ={630} class = "center"/>
