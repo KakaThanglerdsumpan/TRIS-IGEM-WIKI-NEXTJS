@@ -64,4 +64,4 @@ function Attributions({ children }) {
     )
   }
   
-  export default Attributions;
+export default Attributions;
