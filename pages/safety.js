@@ -73,8 +73,8 @@ function Safety({ children }) {
                 <li>Never leave an unfinished experiment unattended.</li>
                 <li>No eating or drinking in the laboratory.</li>
                 <li>Use lab equipment with supervision from supervisors.</li>
-                <li>Know where to locate the lab's first aid kit, fire extinguishers, etc.</li> 
-                <li>Fully understand the building's evacuation procedures.</li>
+                <li>Know where to locate the lab<b><u> APOSTROPHE </u></b>s first aid kit, fire extinguishers, etc.</li> 
+                <li>Fully understand the building<b><u> APOSTROPHE </u></b>s evacuation procedures.</li>
             </ol>
 
             </p>
