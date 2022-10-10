@@ -1,4 +1,3 @@
-$ cat .gitlab-ci.yml
 image: node
 
 before_script:

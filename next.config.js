@@ -1,12 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  swcMinify: true,
-}
-
-module.exports = nextConfig
-
-module.exports = {
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/name-of-repository' : '',
   images: {
     remotePatterns: [
       {
@@ -18,3 +13,5 @@ module.exports = {
     ],
   },
 }
+
+module.exports = nextConfig
