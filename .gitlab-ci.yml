@@ -9,13 +9,12 @@ cache:
     - .next/cache/
 
 pages:
-  script:
+  before_script:
     - npm run build
+  script:
     - npm run export
     - rm -rf public/*
-    - ls
     - mv out/* public
-    - ls
   after_script:
     - rm -rf out
     - ls
