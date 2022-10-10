@@ -1,4 +1,4 @@
-function MembersPage({ children }) {
+function Collaborations({ children }) {
     return (
       <div>
   
@@ -226,4 +226,4 @@ function MembersPage({ children }) {
     )
   }
   
-  export default MembersPage;
+  export default Collaborations;
