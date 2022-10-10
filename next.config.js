@@ -8,5 +8,13 @@ module.exports = {
   nextConfig,
   images: {
     unoptimized: true,
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'static.igem.wiki',
+        port: '',
+        pathname: '/teams/4314/wiki/**',
+      },
+    ],
   },
 }
