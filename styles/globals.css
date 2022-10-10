@@ -41,6 +41,7 @@ nav{
 p{
   word-spacing: 2px;
   line-height: 28px;
+  color: grey;
 }
 .nav__menu-bar{
   display: flex;
@@ -96,6 +97,10 @@ p{
     margin:auto;
     width: 1000px;
   }
+  .header3{
+    margin:auto;
+    width: 1000px;
+  }
   .logo{
     display: none;
   }
@@ -128,9 +133,7 @@ p{
 
   
 }
-.sizedbox {
-  height: 80px;
-}
+
 .titleScreen{
   align-items: center;
   align-content: center;
@@ -193,6 +196,14 @@ p{
   height: fit-content;
   margin: 50px;
 }
+
+.body1{
+  height: fit-content;
+  width: 800px;
+  margin: auto;
+  margin-top: 60px;
+}
+
 .heading {
   font-family: 'rockabye';
   font-size: 50px;
@@ -248,6 +259,23 @@ white;
 
 .rounded-container{
   min-width: 500px;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  background-color: rgb(105, 135, 201);
+  color: white;
+  border-radius: 50px;
+  width: fit-content;
+  margin-bottom: 20px;
+  border-left-width: 0;
+  padding: 10px 30px;
+  font-family: 'druk';
+}
+
+.rounded-container-attributions{
+  min-width: 600px;
   height: 80px;
   display: flex;
   flex-direction: column;
@@ -329,12 +357,32 @@ white;
   height: 100px;
 }
 
+.sizedbox80{
+  height: 80px;
+}
+
+.sizedbox70{
+  height: 70px;
+}
+
 .sizedbox60{
   height: 60px;
 }
 
+.sizedbox50{
+  height: 50px;
+}
+
+.sizedbox40{
+  height: 40px;
+}
+
 .sizedbox30{
   height: 30px;
+}
+
+.sizedbox20{
+  height: 20px;
 }
 
 .sizedbox10{
@@ -345,13 +393,23 @@ white;
   text-indent: 60px;
 }
 
+.indented1{
+  text-indent: 60px;
+}
+
 .fitimage{
   width: 1000px;
+  object-fit: contain;
+}
+
+.fitimage1{
+  width: 600px;
   object-fit: contain;
 }
 .imageheader{
   width: 1000px;
   text-align: left;
+  color: grey;
 }
 
 
@@ -360,6 +418,9 @@ white;
     font-size: 9vw;
   }
   .fitimage{
+    width: 100%;
+  }
+  .fitimage1{
     width: 100%;
   }
   .imageheader{
@@ -375,6 +436,12 @@ white;
   display: flex;
   flex-direction: row;
   width: 1000px;
+}
+
+.myheader-attributions{
+  margin-left: 50px;
+  display: flex;
+  flex-direction: row;
 }
 
 
@@ -408,6 +475,9 @@ white;
   .body{
     margin: 20px;
   }  
+  .body1{
+    margin: 20px;
+  }  
   .myheader{
     font-size: xx-small;
   }
@@ -422,4 +492,23 @@ white;
     height: 30vh;
   }
 
+}
+
+.attributions-margin{
+  margin-left: 100px;
+}
+
+.attributions{
+  font-size: x-large;
+  color: grey
+}
+
+.indented-attributions{
+  margin-left: 80px
+}
+
+.member-row{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
 }
