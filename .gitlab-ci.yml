@@ -14,7 +14,7 @@ pages:
         - find public -type f -name "*.html" | xargs rm -rf
     script:
         # Build application and move content to public folder
-        - npm run build && npm run start # Eq. to 'next build && next export'
+        - npm run build && npm run export # Eq. to 'next build && next export'
         - mv out/* public
     after_script:
         # Cleanup
