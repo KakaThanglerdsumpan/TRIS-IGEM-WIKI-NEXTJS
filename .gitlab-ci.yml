@@ -9,9 +9,13 @@ cache:
     - .next/cache/
 
 pages:
+  before_script:
+    - rm -rf public
   script:
     - npm run-script build && npm run-script export
-    - mv out public
+    - mv out/* public
+  after_script:
+    - rm -rf out
   artifacts:
     paths:
       - public
