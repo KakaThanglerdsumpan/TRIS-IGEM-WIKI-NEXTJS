@@ -114,7 +114,7 @@ function MembersPage({ children }) {
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/tmp.png" class = "fitimage"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/collablogo2.jpg" class = "fitimage"/>    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
@@ -178,7 +178,7 @@ function MembersPage({ children }) {
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/tmp.png" class = "fitimage"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/collablogos.png" class = "fitimage"/>    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
@@ -195,7 +195,7 @@ function MembersPage({ children }) {
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/tmp.png" class = "fitimage"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/vmwithguelph.png" class = "fitimage"/>    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
@@ -211,7 +211,7 @@ function MembersPage({ children }) {
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/vmwithguelph.png" class = "fitimage"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/tmp.png" class = "fitimage"/>    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
