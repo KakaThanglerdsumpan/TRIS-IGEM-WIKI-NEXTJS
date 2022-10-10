@@ -208,15 +208,12 @@ white;
   transform-origin: bottom left;
 }
 
-h3 {
-  margin: 5px;
-}
-
 .titleScreen1{
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  padding-top: 70px;
   height: 50vh;
   background-image: url("https://static.igem.wiki/teams/4314/wiki/gradient.svg");
   background: linear-gradient(to right bottom,rgb( 63, 81, 181),white);
@@ -260,8 +257,23 @@ h3 {
   display: flex;
   flex-direction: row;
 }
-
+.column{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 5px;
+}
 .membertag{
   font-family: "druk";
   color: rgb(105, 135, 201);
+  text-align: left;
+}
+
+.member-column{
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  row-gap: 5px;
+  margin-left: 50px;
+  margin-top: 25px;
 }

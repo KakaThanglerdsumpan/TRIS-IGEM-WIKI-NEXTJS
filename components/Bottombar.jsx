@@ -1,3 +1,4 @@
+import Image from "next/image";
 const Bottombar = () => {
     return (
         <div class = "bottombar">
@@ -6,7 +7,7 @@ const Bottombar = () => {
                 <h3>Email: <a class = "hover-underline-animation" href = "https://mail.google.com/mail/u/0/?fs=1&to=IGEM2022RIS@gmail.com&tf=cm">IGEM2022RIS@gmail.com</a></h3>
                 <h3>Instagram: <a class = "hover-underline-animation" href = "https://www.instagram.com/tris.igem22/">tris.igem22</a></h3>
             </div>
-            <img src = "https://static.igem.wiki/teams/4314/wiki/sponsor.svg" width={200}/>
+            <Image src = "https://static.igem.wiki/teams/4314/wiki/sponsor.svg" width={200} height ="50vh"/>
             
         </div>
     )

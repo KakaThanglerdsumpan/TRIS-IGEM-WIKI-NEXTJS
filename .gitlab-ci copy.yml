@@ -1,0 +1,21 @@
+$ cat .gitlab-ci.yml
+image: node
+
+before_script:
+  - npm install
+
+cache:
+  paths:
+    - node_modules/
+    - .next/cache/
+
+pages:
+  script:
+    - npm run-script build && npm run-script export
+    - rm -rf public/*
+    - mv out public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master

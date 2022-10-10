@@ -1,11 +1,14 @@
+import Image from 'next/image'
 const HomePage = ({ children }) => {
   return (
     <div>
 
         <div class = "titleScreen">
+          <div class = "column">
             <h1 class = "title">THAILAND_RIS</h1>
             <h2 class = "description">Simple Description</h2>
-            <img src = "https://static.igem.wiki/teams/4314/wiki/igemlogopurple.png" width = "630" class = "center"/>
+            <Image src = "https://static.igem.wiki/teams/4314/wiki/igemlogopurple.png" width = {630} height ={630} class = "center"/>
+          </div>
         </div>
         <div class = "sizedbox"/>
         <div class = "body">
