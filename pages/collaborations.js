@@ -6,8 +6,6 @@ function Collaborations({ children }) {
                   <h1 class = "titlescreentext">COLLABORATIONS</h1>
           </div>
           <div class = "body">
-            
-
 
             <div class = "myheader">
                 <div class = "rounded-container">
@@ -93,7 +91,7 @@ function Collaborations({ children }) {
 
             <div class = "myheader">
                 <div class = "rounded-container">
-                    <h1 class = 'header2'>Instagram Video Project, hosted by Patras Med</h1>
+                    <h1 class = 'header2'>Instagram Video Project: Hosted by Patras Med</h1>
                 </div>
                 <div class = "circle1"></div>
             </div>
@@ -141,7 +139,7 @@ function Collaborations({ children }) {
 
             <div class = "myheader">
                 <div class = "rounded-container">
-                    <h1 class = 'header2'>iGEMer’s Badge Project, hosted by Korea_HS</h1>
+                    <h1 class = 'header2'>iGEMer’s Badge Project: Hosted by Korea_HS</h1>
                 </div>
                 <div class = "circle1"></div>
             </div>
@@ -157,7 +155,7 @@ function Collaborations({ children }) {
 
             <div class = "myheader">
                 <div class = "rounded-container">
-                    <h1 class = 'header2'>Comic Coloring Book Project, hosted by iGEM Tec-Chihuahua</h1>
+                    <h1 class = 'header2'>Comic Coloring Book Project: Hosted by iGEM Tec-Chihuahua</h1>
                 </div>
                 <div class = "circle1"></div>
             </div>
@@ -189,8 +187,7 @@ function Collaborations({ children }) {
 
             <div class = "myheader">
                 <div class = "rounded-container">
-                    <h1 class = 'header2'>Virtual Meeting with iGEM Guelph
-            </h1>
+                    <h1 class = 'header2'>Virtual Meeting with iGEM Guelph</h1>
                 </div>
                 <div class = "circle1"></div>
             </div>

@@ -19,13 +19,14 @@ function MembersPage({ children }) {
         </div>
 
 
-        <div class = "row">
+        <div class = "member-row">
           <div class = "member-column">
             <h2 class = "membertag">DHIRATH THANGLERDSUMPAN<br/>WIKI MEMBER/CODER</h2>
             <div class = "row">
               <img src = "https://static.igem.wiki/teams/4314/wiki/tmp.png" width= {350} height= {225} />
             </div>
           </div>
+          <p>loremipsumasdfasdfasdfasdf</p>
         </div>
         
 
