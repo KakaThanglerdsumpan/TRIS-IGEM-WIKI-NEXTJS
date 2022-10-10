@@ -4,16 +4,4 @@ const nextConfig = {
   swcMinify: true,
 }
 
-module.exports = {
-  nextConfig,
-  images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'static.igem.wiki',
-        port: '',
-        pathname: '/teams/4314/wiki/**',
-      },
-    ],
-  },
-}
+module.exports = nextConfig
