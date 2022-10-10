@@ -21,12 +21,39 @@ function MembersPage({ children }) {
 
         <div class = "member-row">
           <div class = "member-column">
-            <h2 class = "membertag">DHIRATH THANGLERDSUMPAN<br/>WIKI MEMBER/CODER</h2>
-            <div class = "row">
+            <h2 class = "membertag">
+              ADA CHUNHAVAJIRA
+            </h2>
+            <h4 class = "membertag">
+            TEAM LEADER, HUMAN PRACTICES MEMBER, GROUP 1 LAB MEMBER
+            </h4>
+            <div class = "row1">
+              <img src = "https://static.igem.wiki/teams/4314/wiki/tmp.png" width= {350} height= {225} />
+              <p class = "member-text">
+                Hi my name is Ada! I am currently a senior in Ruamrudee International School in Bangkok, Thailand. 
+                My responsibilities in the team include organizing and looking over the plans of the project as well as helping the team with any problems that may arise. 
+                I am forever grateful for my iGEM experience and all of my teammates. 
+              </p>
+            </div>
+          </div>
+
+          <div class = "member-column-right">
+            <h2 class = "membertag align-right">
+              ADA CHUNHAVAJIRA
+            </h2>
+            <h4 class = "membertag align-right">
+            TEAM LEADER, HUMAN PRACTICES MEMBER, GROUP 1 LAB MEMBER
+            </h4>
+            <div class = "row1">
+            <p class = "member-text align-right">
+                Hi my name is Ada! I am currently a senior in Ruamrudee International School in Bangkok, Thailand. 
+                My responsibilities in the team include organizing and looking over the plans of the project as well as helping the team with any problems that may arise. 
+                I am forever grateful for my iGEM experience and all of my teammates. 
+              </p>
               <img src = "https://static.igem.wiki/teams/4314/wiki/tmp.png" width= {350} height= {225} />
             </div>
           </div>
-          <p>loremipsumasdfasdfasdfasdf</p>
+        
         </div>
         
 

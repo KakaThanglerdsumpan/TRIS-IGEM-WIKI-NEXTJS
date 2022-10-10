@@ -194,7 +194,8 @@ p{
 
 .body{
   height: fit-content;
-  margin: 50px;
+  margin: auto;
+  width: 1000px;
 }
 
 .body1{
@@ -270,6 +271,25 @@ white;
   width: fit-content;
   margin-bottom: 20px;
   border-left-width: 0;
+  padding: 10px 30px;
+  font-family: 'druk';
+}
+
+.white-rounded-container{
+  min-width: 500px;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  background-color: white;
+  color: rgb(105, 135, 201);
+  border: solid;
+  border-color: rgb(105, 135, 201);
+  border-radius: 50px;
+  border-width: 2px;
+  width: fit-content;
+  margin-bottom: 20px;
   padding: 10px 30px;
   font-family: 'druk';
 }
@@ -353,6 +373,19 @@ white;
   margin-top: 25px;
 }
 
+.member-column-right{
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  row-gap: 5px;
+  margin-right: 50px;
+  margin-top: 25px;
+}
+
+.align-right{
+  text-align: right;
+}
+
 .sizedbox100{
   height: 100px;
 }
@@ -430,6 +463,10 @@ white;
     width: 100%;
     font-size: small;
   }
+
+  .body{
+    width: calc(100% - 100px);
+  }
 }
 .myheader{
   margin:auto;
@@ -456,6 +493,11 @@ white;
     width: calc(100% - 120px);
     overflow-wrap: break-word;
   }
+  .white-rounded-container{
+    min-width: 0;
+    width: calc(100% - 120px);
+    overflow-wrap: break-word;
+  }
 }
 
 .sponsorimg{
@@ -473,6 +515,7 @@ white;
 
 @media  screen and (max-width: 500px) {
   .body{
+    width: 100vw;
     margin: 20px;
   }  
   .body1{
@@ -511,4 +554,20 @@ white;
   display: flex;
   flex-direction: row;
   align-items: flex-end;
+}
+
+.indented-list{
+  margin: 5px 10vw;
+}
+
+.row1{
+  display: flex;
+  flex-direction: row;
+  width: calc(50vw - 50px);
+}
+
+.member-text{
+  font-size: small;
+  margin-left: 10px;
+  margin-right: 10px;
 }

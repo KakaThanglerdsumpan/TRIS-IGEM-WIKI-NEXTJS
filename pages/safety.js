@@ -7,82 +7,89 @@ function Safety({ children }) {
           </div>
           <div class = "sizedbox30"/>
          
-          <div class = "body">
-          <p class = "indented"> 
-            <b>
-            At the current stage of our project, the modified bombolitin antimicrobial peptide has not been developed 
-            into a product yet. However, looking at the results of in-vitro testing, the modified bombolitin antimicrobial 
-            peptide is capable ofasdfadfasdfadfadsasdfsdfdsfdsfadfa inhibiting <i>Ralstonia</i>. Since there are currently no other effective ways to solve the 
-            problem of bacterial wilt, our project will be beneficial to producers of solanaceous crops. 
-            If developed into a product, the modified bombolitin antimicrobial peptide can be used in the form of a spray 
-            that will be applied into the soil since <i>Ralstonia</i> is a soil-borne pathogen. This way, the modified bombolitin 
-            antimicrobial peptide will kill the <i>Ralstonia</i> that is infecting the plants at its roots. The modified bombolitin 
-            antimicrobial peptide will be attracted to the gram negative cell membrane of <i>Ralstonia</i>, promptly disrupt the 
-            membrane structure, and ultimately cause cell lysis. 
-            </b>
-        <div class = "sizedbox60"/>
-        </p> 
-            <div class = "myheader">
+        <div class = "body">
+        <div class = "myheader">
                 <div class = "rounded-container">
-                    <h1 class = 'header2'>Real Life Implications</h1>
+                    <h1 class = 'header2'>Regarding COVID-19</h1>
                 </div>
                 <div class = "circle1"></div>
             </div>
-            <div class = "sizedbox20"/>
+            <div class = "sizedbox30"/>
             
             <p class = "indented"> 
-            At the current stage of our project, the modified bombolitin antimicrobial peptide has not been developed 
-            into a product yet. However, looking at the results of in-vitro testing, the modified bombolitin antimicrobial 
-            peptide is capable of inhibiting <i>Ralstonia</i>. Since there are currently no other effective ways to solve the 
-            problem of bacterial wilt, our project will be beneficial to producers of solanaceous crops. 
-            If developed into a product, the modified bombolitin antimicrobial peptide can be used in the form of a spray 
-            that will be applied into the soil since <i>Ralstonia</i> is a soil-borne pathogen. This way, the modified bombolitin 
-            antimicrobial peptide will kill the <i>Ralstonia</i> that is infecting the plants at its roots. The modified bombolitin 
-            antimicrobial peptide will be attracted to the gram negative cell membrane of <i>Ralstonia</i>, promptly disrupt the 
-            membrane structure, and ultimately cause cell lysis.  
-
+            Since our project was done during the COVID-19 pandemic, we practiced different measures meant to help reduce 
+            the spread of COVID-19. During the lab, masks were worn at all times both inside and also outside. 
+            Masks were also only used once and thrown away after we had finished using them. Additionally, we 
+            frequently washed our hands to help prevent the spread of the virus.
             </p>
-            <div class = "sizedbox60"/>
-            {/* HEADER */}
+            <div class = "sizedbox30"/>
+            <div class = "center-horizontal">
+                            <img src = "https://static.igem.wiki/teams/4314/wiki/safety1.png" class = "fitimage1"/>    
+                        </div>
+            <div class = "sizedbox30"/>
             <div class = "myheader">
                             <div class = "rounded-container">
-                                <h1 class = 'header2'>Possible Challenges</h1>
+                                <h1 class = 'header2'>Specific materials including potential risks:  </h1>
                             </div>
                             <div class = "circle1"></div>
                         </div>
-            {/* HEADER */}
+            <div class = "sizedbox30"/>
+            <p class = "indented"> 
+            The aim of our experiment was to come up with a modified peptide that produces Bombolitin in order to 
+            combat the <i>Ralstonia</i> bacteria in crops. To do this, <i>E. coli</i> was genetically modified to be capable of 
+            producing Bombilitin. Our project was kept at a prototype stage and there was no actual plant experimentation. 
+            </p>
+            <div class = "sizedbox30"/>
+            <div class = "center-horizontal">
+                            <img src = "https://static.igem.wiki/teams/4314/wiki/safety-2.png" class = "fitimage1"/>    
+                        </div>
+            <div class = "sizedbox30"/>
+            <p> 
+            <i>E. coli</i> bacteria purchased has very low risks to both humans and the environment (non-pathogenic strains: DH5α and BL21). 
+            </p>
             <div class = "sizedbox20"/>
-            {/* PARAGRAPH */}
-                        <p class = "indented"> 
-                            When discussing the possibility of developing the modified bombolitin into a product, effectiveness and viability of the final product have to be considered. 
+            <p>
+            <i>Ralstonia</i>, bacteria, from lab, potentially dangerous to neighboring flora if not contained properly.
+            </p>
+            <div class = "sizedbox30"/>
+            <div class = "myheader">
+                            <div class = "rounded-container">
+                                <h1 class = 'header2'>Lab Safety </h1>
+                            </div>
+                            <div class = "circle1"></div>
+                        </div>
+            <div class = "sizedbox30"/>
+            <p class = "indented"> 
+            All members of the Thailand_RIS team had proper training on how to correctly use the lab equipment at both labs. 
+            We also learned how to deal with possible emergencies and malfunctions in equipment. We rigorously followed 10 main lab safety rules at all times. Knowing that Ralstonia can be harmful to the surrounding flora since it is an infectious bacteria, we took extra careful measures when dealing with the bacteria.        
+            </p>
+            <p>
+            <ol class = "indented-list">
+                <li>Wear protective gear such as safety glasses, lab coats, and disposable gloves at all times.</li>
+                <li>Properly dispose and throw away lab waste through autoclaving and disposing them in the correct labeled waste bins depending on the type of waste.</li>
+                <li>Never smell or taste chemicals or other lab materials.</li>
+                <li>Unused chemicals can not be returned to their original container.</li>
+                <li>Make sure your work area is clean and properly ventilated.</li>
+                <li>Never leave an unfinished experiment unattended.</li>
+                <li>No eating or drinking in the laboratory.</li>
+                <li>Use lab equipment with supervision from supervisors.</li>
+                <li>Know where to locate the lab's first aid kit, fire extinguishers, etc.</li> 
+                <li>Fully understand the building's evacuation procedures.</li>
+            </ol>
 
-                        </p>
-            {/* PARAGRAPH */}
-            <div class = "sizedbox20"/>
-            {/* PARAGRAPH */}
-                        <p class = "indented"> 
-                            Firstly, taking into account that our potential product will be mainly consisting of peptides, there are specific temperatures and pH levels that need to be addressed. In order for the product to be effective, the peptide cannot denature. In response, heat shock proteins such as Hsp 60 can potentially prevent the denaturation of the peptide. Additionally, specified use of time for the ideal temperature will also be identified. However, further testing is required before finalizing all components.
-
-                        </p>
-            {/* PARAGRAPH */}
-            <div class = "sizedbox20"/>
-            {/* PARAGRAPH */}
-                        <p class = "indented"> 
-                            Secondly, shelf life could be a big challenge if the modified bombolitin were to be developed into a product. When kept at room temperature, peptides could degrade within 24 hours, and -20°C is preferred for long term storage. However, -20°C might not be practical for the majority of farmers, since they would need constant access to a freezer.
-
-                        </p>
-            {/* PARAGRAPH */}
-            <div class = "sizedbox20"/>
-            {/* PARAGRAPH */}
-                        <p class = "indented"> 
-                            Finally, we have to consider commercial usage. Statistically, the demand of the product should be high. However, farmers may be skeptical of a genetically modified product which would significantly lower the demand. This may be solved through educating local farmers about genetically modified products and the effectiveness of said product. Additionally, the costs of production and the selling price of the product has to be determined. As we know, because of the way the product is being produced, through synthetic biology, the initial cost of the production would be high. Due to this, we would have to find a profitable competitive price for the potential product which would very well be more expensive than commercial chemical pesticides.
+            </p>
+          
+            <div class = "sizedbox30"/>
+            <div class = "center-horizontal">
+                            <img src = "https://static.igem.wiki/teams/4314/wiki/safety3.png" class = "fitimage1"/>    
+                        </div>
+            <div class = "sizedbox30"/>
 
 
-                        </p>
-            {/* PARAGRAPH */}
+        </div>
+    
         </div>
        
-      </div>
     )
   }
   
