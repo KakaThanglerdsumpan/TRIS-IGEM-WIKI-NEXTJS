@@ -16,21 +16,21 @@ function Attributions({ children }) {
         </div>
         <div class = "sizedbox10"/>
         <p class = "attributions"> 
-        Everyone's names
+        Everyone  names
         </p>
         <div class = "sizedbox60"/>
 
         <h1 class = "header1">WET LAB</h1>
         <div class = "sizedbox30"/>
         <p class = "attributions"> 
-        Everyone's names
+        Everyone  names
         </p>
         <div class = "sizedbox60"></div>
 
         <h1 class = "header1">DRY LAB</h1>
         <div class = "sizedbox30"/>
         <p class = "attributions"> 
-        Everyone's names
+        Everyone  names
         </p>
         <div class = "sizedbox60"></div>
 
@@ -41,21 +41,21 @@ function Attributions({ children }) {
             <h1 class = "header1">COLLABORATIONS</h1>
             <div class = "sizedbox30"/>
             <p class = "attributions"> 
-            Everyone's names
+            Everyone  names
             </p>
             <div class = "sizedbox60"></div>
 
             <h1 class = "header1">WIKI</h1>
             <div class = "sizedbox30"/>
             <p class = "attributions"> 
-            Everyone's names
+            Everyone  names
             </p>
             <div class = "sizedbox60"></div>
         </div>
         <h1 class = "header1">SUPPORT</h1>
             <div class = "sizedbox30"/>
             <p class = "attributions"> 
-            Everyone's names
+            Everyone  names
             </p>
             <div class = "sizedbox60"></div>
         
