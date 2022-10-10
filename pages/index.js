@@ -10,19 +10,17 @@ const HomePage = ({ children }) => {
             <img src = "https://static.igem.wiki/teams/4314/wiki/igemlogopurple.png" width = {630} height ={630} class = "center"/>
           </div>
         </div>
-        <div class = "sizedbox"/>
-        <div class = "body">
+        <div class = "sizedbox80"/>
             <h1 class = 'heading'>PROMOTIONAL VIDEO</h1>
             <p>loremipsumasdfasdfasdfasdf
                 adfsadf
                 asdfafasdfad
-                fadf
+                fadfasdfasdfasdfasdfasdfads
                 adfsadfdfadsdfasdfasdfasdfasdfadsf
                 asdfasdfasdfadfasdfadsfadfadsf
                 sdfa
                 sdfasdf
             </p>
-        </div>
 
     </div>
   )
