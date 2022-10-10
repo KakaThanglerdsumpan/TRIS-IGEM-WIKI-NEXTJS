@@ -15,6 +15,7 @@ pages:
     script:
         # Build application and move content to public folder
         - npm run build && npm run export # Eq. to 'next build && next export'
+        - ls 
         - mv out public
     after_script:
         # Cleanup

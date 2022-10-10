@@ -35,7 +35,7 @@ nav{
   justify-content: space-between;
   background-color: white;
   color: rgb(48, 63, 123);
-  box-shadow:  1px 0px 8px rgb(0, 0, 0);
+  box-shadow:  2px 0px 8px rgb(112, 112, 112);
   
 }
 .nav__menu-bar{
