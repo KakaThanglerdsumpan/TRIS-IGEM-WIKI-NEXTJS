@@ -10,7 +10,8 @@ cache:
 
 pages:
   script:
-    - npm run build && npm run export
+    - npm run build
+    - npm run export
     - rm -rf public/*
     - ls
     - mv out/* public
