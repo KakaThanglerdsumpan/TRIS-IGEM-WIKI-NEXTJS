@@ -1,24 +1,17 @@
-stages:
-  - deploy
+image: node
+
+before_script:
+  - npm install
 
 cache:
   paths:
-    - $CI_PROJECT_DIR/.pub-cache/
-
-before_script:
-  - flutter config --enable-web
-  - flutter pub get
-  - export PUB_CACHE=$CI_PROJECT_DIR/.pub-cache
-  - export PATH="$PATH":"$PUB_CACHE/bin"
+    - node_modules/
+    - .next/cache/
 
 pages:
-  stage: deploy
-  image: "cirrusci/flutter:latest"
   script:
-    - flutter build web --web-renderer html
-    - rm -rf build/web/canvaskit
-    - cp -r build/web public
-    - ls public
+    - npm run-script build && npm run-script export
+    - mv out public
   artifacts:
     paths:
       - public
