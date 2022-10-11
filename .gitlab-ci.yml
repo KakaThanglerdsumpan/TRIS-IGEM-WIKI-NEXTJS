@@ -2,6 +2,7 @@ image: node
 
 before_script:
   - npm install
+  - npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^6
 
 cache:
   paths:
