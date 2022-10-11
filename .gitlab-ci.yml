@@ -6,7 +6,7 @@ before_script:
 pages:
   script:
     - npm run build && npm run export
-    - mv out public
+    - mv out/* public/.
   artifacts:
     paths:
       - public
