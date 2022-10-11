@@ -4,11 +4,6 @@ before_script:
   - npm install --force
   - npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^6
 
-cache:
-  paths:
-    - node_modules/
-    - .next/cache/
-
 pages:
   before_script:
     - npm run build > /dev/null
