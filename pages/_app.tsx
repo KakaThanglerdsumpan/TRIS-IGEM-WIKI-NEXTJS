@@ -1,16 +1,20 @@
-import '../styles/globals.css'
-import Navbar from '../components/Navbar'
-import Bottombar from '../components/Bottombar'
+import '../styles/globals.scss'
 import type { AppProps } from 'next/app'
-import React from 'react'
+import Main from '../components/layouts/main'
+import Navbar from '../components/navbar'
+import { ChakraProvider } from '@chakra-ui/react'
 
 function MyApp({ Component, pageProps }: AppProps) {
-  return <>
-  <Navbar/>
-  <Component {...pageProps} />
-  <Bottombar/>
-  </>
-
+    return (
+        <div>
+            <ChakraProvider>
+                <Main>
+                    <Navbar />
+                    <Component {...pageProps} />
+                </Main>
+            </ChakraProvider>
+        </div>
+    )
 }
 
 export default MyApp
