@@ -3,12 +3,6 @@ image: node
 before_script:
   - npm install
 
-cache:
-  key: ${CI_COMMIT_REF_SLUG}
-  paths:
-    - node_modules/
-    - .next/cache/
-
 pages:
   script:
     - npm run build && npm run export
