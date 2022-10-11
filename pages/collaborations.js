@@ -6,18 +6,20 @@ function Collaborations({ children }) {
                   <h1 class = "titlescreentext">COLLABORATIONS</h1>
           </div>
           <div class = "body">
+            <div class = "sizedbox60"/>
 
             <div class = "myheader">
                 <div class = "rounded-container">
                     <h1 class = 'header2'>Virtual Meetings with VIT Vellore</h1>
                 </div>
-                <div class = "circle1"></div>
+                <div class = "circle1">
+                </div>
             </div>
             <div class = "center-horizontal">
-                <div class = "imageheader"><h2><u>Meeting 1</u></h2></div>
-                <img src = "https://static.igem.wiki/teams/4314/wiki/vit1.png" class = "fitimage"/> 
+                <div class = "imageheader"><h2 class = "header1">Meeting 1</h2></div>
+                <img src = "https://static.igem.wiki/teams/4314/wiki/vit1.png" class = "fitimage2"/> 
                 <div class = "sizedbox10"/>
-                <img src = "https://static.igem.wiki/teams/4314/wiki/vit2.png" class = "fitimage"/>       
+                <img src = "https://static.igem.wiki/teams/4314/wiki/vit2.png" class = "fitimage2"/>       
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
@@ -25,8 +27,8 @@ function Collaborations({ children }) {
             </p>
             <div class = "sizedbox30"/>
             <div class = "center-horizontal">
-                <div class = "imageheader"><h2><u>Meeting 2</u></h2></div>
-                <img src = "https://static.igem.wiki/teams/4314/wiki/picvit3.png" class = "fitimage"/> 
+            <div class = "imageheader"><h2 class = "header1">Meeting 2</h2></div>
+                <img src = "https://static.igem.wiki/teams/4314/wiki/picvit3.png" class = "fitimage2"/> 
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented" > 
@@ -42,7 +44,7 @@ function Collaborations({ children }) {
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/asij.png" class = "fitimage"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/asij.png" class = "fitimage2"/>    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
@@ -64,7 +66,7 @@ function Collaborations({ children }) {
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/zoomkorhs.png" class = "fitimage"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/zoomkorhs.png" class = "fitimage2"/>    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
@@ -77,14 +79,15 @@ function Collaborations({ children }) {
                 <div class = "rounded-container">
                     <h1 class = 'header2'>The Emoji Challenge: Hosted by Aboa</h1>
                 </div>
-                <div class = "circle1"></div>
+                <div class = "circle1">
+                </div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/tmp.png" class = "fitimage"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/collabthing-0.png" class = "fitimage"/>    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
-            We participated in Aboa’s Emoji Challenge, hosted in honor of World Emoji Day, which took place on July 17th. Participants were to create an emoji that represented their team project, and send it to Aboa with a short description of the topic. After having done this, Aboa published our emojis as part of an emoji quiz on their instagram page. For our emoji, we decided to add rice to represent agriculture and Thailand. The bacteria and the shield represents our project: using antimicrobial peptides expressed in E. coli to protect crops from the Ralstonia bacteria. Finally, we decided to use the sunglasses emoji to convey the fun and chaotic nature of our High School level team, consisting of a bunch of teenagers learning the ropes of science! Overall, we had a lot of fun participating in the unique collaboration activity, which was a creative way to express/get to know different projects and their teams. 
+            We participated in Aboa&appos;s Emoji Challenge, hosted in honor of World Emoji Day, which took place on July 17th. Participants were to create an emoji that represented their team project, and send it to Aboa with a short description of the topic. After having done this, Aboa published our emojis as part of an emoji quiz on their instagram page. For our emoji, we decided to add rice to represent agriculture and Thailand. The bacteria and the shield represents our project: using antimicrobial peptides expressed in E. coli to protect crops from the Ralstonia bacteria. Finally, we decided to use the sunglasses emoji to convey the fun and chaotic nature of our High School level team, consisting of a bunch of teenagers learning the ropes of science! Overall, we had a lot of fun participating in the unique collaboration activity, which was a creative way to express/get to know different projects and their teams. 
             </p>
             <div class = "sizedbox60"/>
 
@@ -96,7 +99,7 @@ function Collaborations({ children }) {
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/tmp.png" class = "fitimage"/>    
+            <iframe title="Thailand_RIS: Instagram Video Project (2022) [English]" class="video" src="https://video.igem.org/videos/embed/bddd3a17-4e04-44c5-84fe-13e4d6f7b245" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
@@ -112,7 +115,10 @@ function Collaborations({ children }) {
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/collablogo2.jpg" class = "fitimage"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/collablogo2.jpg" class = "fitimage1"/>    
+            </div>
+            <div class = "center-horizontal">
+                <img src = "https://static.igem.wiki/teams/4314/wiki/screen-shot-2565-10-11-at-22-58-33.png" class = "fitimage2"/>    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
@@ -128,7 +134,7 @@ function Collaborations({ children }) {
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/tmp.png" class = "fitimage"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/screen-shot-2565-10-05-at-9-45-07-pm.png" class = "fitimage3"/>    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
@@ -139,16 +145,16 @@ function Collaborations({ children }) {
 
             <div class = "myheader">
                 <div class = "rounded-container">
-                    <h1 class = 'header2'>iGEMer’s Badge Project: Hosted by Korea_HS</h1>
+                    <h1 class = 'header2'>iGEMer&#39;s Badge Project: Hosted by Korea_HS</h1>
                 </div>
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/badgeproject.png" class = "fitimage"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/badgeproject.png" class = "fitimage1" />    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
-            Korea_HS’s Badge Project was one of their collaboration initiatives that they introduced to our team during our previous meetup. When the project was officially launched, our team was very eager to participate. This project allowed iGEM teams to order custom badges through Korea_HS that showcased their respective team and their project. We felt that this was a fitting project to participate in since it enabled our team to wear matching accessories throughout the Giant Jamboree. For our badge, we decided to simply use our logo since we felt that it best represented our team and project, as the agricultural-related designs in Thai artwork displayed our Thai roots as well as how our project is agriculture related. We look forward to our completed badges being shipped to us before we depart Thailand for Paris, where we hope to see other iGEM teams wearing their creative badges. 
+            Korea_HS&apos;s Badge Project was one of their collaboration initiatives that they introduced to our team during our previous meetup. When the project was officially launched, our team was very eager to participate. This project allowed iGEM teams to order custom badges through Korea_HS that showcased their respective team and their project. We felt that this was a fitting project to participate in since it enabled our team to wear matching accessories throughout the Giant Jamboree. For our badge, we decided to simply use our logo since we felt that it best represented our team and project, as the agricultural-related designs in Thai artwork displayed our Thai roots as well as how our project is agriculture related. We look forward to our completed badges being shipped to us before we depart Thailand for Paris, where we hope to see other iGEM teams wearing their creative badges. 
             </p>
             <div class = "sizedbox60"/>
 
@@ -160,7 +166,7 @@ function Collaborations({ children }) {
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/tmp.png" class = "fitimage"/>    
+                <iframe height={500} src = "https://static.igem.wiki/teams/4314/wiki/comics-compressed.pdf"/>    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
@@ -176,7 +182,9 @@ function Collaborations({ children }) {
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/collablogos.png" class = "fitimage"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/collablogos.png" class = "fitimage1"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/screen-shot-2565-10-11-at-23-14-16.png" class = "fitimage1"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/screen-shot-2565-10-11-at-23-14-46.png" class = "fitimage1"/>    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
@@ -192,30 +200,13 @@ function Collaborations({ children }) {
                 <div class = "circle1"></div>
             </div>
             <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/vmwithguelph.png" class = "fitimage"/>    
+                <img src = "https://static.igem.wiki/teams/4314/wiki/vmwithguelph.png" class = "fitimage2"/>    
             </div>
             <div class = "sizedbox10"/>
             <p class = "indented"> 
             As we were wrapping up our iGEM journey, iGEM Guelph reached out to us after seeing a collaboration posting on Slack in order to have a virtual meeting with us. Since we were both first-time High School teams, it sparked their interest, as well as the fact that we were both trying to create some sort of biopesticide. We started off the meeting by presenting each of our projects and asking questions. We also discussed our planned implementation and how our human practice initiatives shaped our project. Our team was especially interested in how iGEM Guelph’s product could be altered to target specific pest species. Additionally, we were also intrigued by the improvements they were looking forward to make after iGEM, such as adding a kill-switch and improving it so that the promoter could be triggered by a pathway set off by the pest, so that farmers would not have to manually spray their crops with a specific sugar to “turn on” the pesticide-like abilities of the bacteria. We also had a meaningful conversation about the steps that each of our projects needed to take in order to successfully commercialize our product, such as the different regulations that we would have to go through to launch our product in our countries. Furthermore, we shared similar struggles with transformation in the lab. Another problem that we both faced in our projects was the potential for our product to unintentionally harm non-target organisms. Before concluding the meeting, we reflected on our iGEM journeys thus far. iGEM Guelph was particularly interested in our experiences of  iGEM while trying to balance high school. When we brought up the fact that we were still a bit lost on the “Parts” aspect of iGEM, iGEM Guelph thoroughly explained it to us, further giving us suggestions on what parts we could add to the iGEM registry, what parts we could modify, and how we could showcase this process as part of Engineering Success. This was an incredibly valuable exchange for us and was instrumental in helping us complete Parts-related criterias, such as Contribution and Improvement on an Existing Part, in addition to Engineering success. Overall, the meeting was incredibly informative, thought-provoking, and enjoyable. 
             </p>
             <div class = "sizedbox60"/>
-
-
-            <div class = "myheader">
-                <div class = "rounded-container">
-                    <h1 class = 'header2'>Synbio for Agriculture Team Meetup</h1>
-                </div>
-                <div class = "circle1"></div>
-            </div>
-            <div class = "center-horizontal">
-                <img src = "https://static.igem.wiki/teams/4314/wiki/tmp.png" class = "fitimage"/>    
-            </div>
-            <div class = "sizedbox10"/>
-            <p class = "indented"> 
-                <t/>iGEM Tec-Chihuahua reached out to us via Instagram inviting us to join their “Comic Coloring Book” Project. This collaboration project incorporated both human practices and educational outreach. Each team created a 2-page long English colorless comic book centered around their iGEM project. These comic books were then compiled all together and distributed by iGEM Tec-Chihuahua to elementary and middle school students, aged 6-12. Our team had a lot of fun creating a story that conveyed our project. While creating the comic, we had to be thoughtful of the target audience. Keeping in mind that we were trying to engage young kids with limited scientific knowledge, we made the drawings entertaining and kept it simple. In our opinion, this was a very unique project that helped young kids learn about synthetic biology, current problems in the world, and the application of synthetic biology. When we received the compilation of all the completed comics, we were mesmerized by the wide variety of art styles and we greatly enjoyed learning about other team’s projects in such a manner. In fact, the comic book that we created was used as part of our educational outreach with third graders at our school, and the students had a lot of fun coloring the book and reading the exciting, yet educational story. 
-            </p>
-            <div class = "sizedbox60"/>
-
 
         </div>        
         

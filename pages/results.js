@@ -18,7 +18,7 @@ function Results({ children }) {
 
 
             {/* PARAGRAPH */}
-            <p class = "header3"><u><b>Bombolitin Vector Design</b></u></p>
+            <h2 class = "header1">Bombolitin Vector Design</h2>
             <p class = "indented1"> 
                         We sub-cloned the bombolitin mRNA sequence from the venom of the bumblebee 
                         <i> Bombus ignitus</i> to pGEX-61 by process of DNA synthesis. 
@@ -45,7 +45,7 @@ function Results({ children }) {
             <div class = "sizedbox60"/>
 
             {/* PARAGRAPH */}
-            <p class = "header3"><u><b>DNA Amplification of Bombolitin</b></u></p>
+            <h2 class = "header1">DNA Amplification of Bombolitin</h2>
             {/* PARAGRAPH */}
 
             <div class = "sizedbox60"/>
@@ -66,7 +66,7 @@ function Results({ children }) {
             <div class = "sizedbox60"/>
 
             {/* PARAGRAPH */}
-            <p class = "header3"><u><b>DNA Purification of Bombolitin </b></u></p>
+            <h2 class = "header1">DNA Purification of Bombolitin</h2>
             {/* PARAGRAPH */}
             {/* IMAGE */}
             <div class = "center-horizontal">
@@ -83,7 +83,7 @@ function Results({ children }) {
             <div class = "sizedbox60"/>
 
             {/* PARAGRAPH */}
-            <p class = "header3"><u><b>Ligation of Bombolitin with pET232a </b></u></p>
+            <h2 class = "header1">Ligation of Bombolitin with pET232a</h2>
             {/* PARAGRAPH */}
 
             {/* IMAGE */}
@@ -92,7 +92,6 @@ function Results({ children }) {
                         </div>
             {/* IMAGE */}
 
-            <div class = "sizedbox60"/>
 
             {/* IMAGE */}
             <div class = "center-horizontal">
@@ -110,7 +109,7 @@ function Results({ children }) {
             <div class = "sizedbox60"/>
 
             {/* PARAGRAPH */}
-            <p class = "header3"><u><b>Protein Expression of pET32a-Bombolitin </b></u></p>
+            <h2 class = "header1">Protein Expression of pET32a-Bombolitin</h2>
             {/* PARAGRAPH */}
 
             {/* IMAGE */}
@@ -130,7 +129,7 @@ function Results({ children }) {
             <div class = "sizedbox60"/>
 
             {/* PARAGRAPH */}
-            <p class = "header3"><u><b>Protein Characterization of pET32a-Bombolitin </b></u></p>
+            <h2 class = "header1">Protein Characterization of pET32a-Bombolitin </h2>
             <p class = "indented1"> 
                         Through the process of protein characterization, the results showed that the rBombolitin 22.04 kDa bound to the 
                         Ni-NTA column was eluded by 300mM imidazole. We also tested using agar diffusion assay and the result 
@@ -178,7 +177,6 @@ function Results({ children }) {
                         </div>
                     
             {/* IMAGE */}
-            <div class = "sizedbox60"/>
 
             {/* IMAGE */}
             <div class = "center-horizontal">
@@ -187,7 +185,6 @@ function Results({ children }) {
                         </div>
                     
             {/* IMAGE */}
-            <div class = "sizedbox60"/>
             {/* IMAGE */}
             <div class = "center-horizontal">
                             <img src = "https://static.igem.wiki/teams/4314/wiki/biopanning.png" class = "fitimage1"/>    

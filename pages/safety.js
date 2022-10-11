@@ -5,7 +5,7 @@ function Safety({ children }) {
           <div class = "titleScreen1">
                   <h1 class = "titlescreentext">SAFETY</h1>
           </div>
-          <div class = "sizedbox30"/>
+          <div class = "sizedbox40"/>
          
         <div class = "body">
         <div class = "myheader">
@@ -14,7 +14,7 @@ function Safety({ children }) {
                 </div>
                 <div class = "circle1"></div>
             </div>
-            <div class = "sizedbox30"/>
+            <div class = "sizedbox10"/>
             
             <p class = "indented"> 
             Since our project was done during the COVID-19 pandemic, we practiced different measures meant to help reduce 

@@ -89,6 +89,12 @@ p{
   justify-content: center;
   align-items: center;
 }
+
+.center1{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
 @media screen and (min-width: 1200px) {
   nav{
     padding: 0px;
@@ -168,7 +174,20 @@ p{
   font-family: 'rockabye';
   font-weight: lighter;
 }
+.myheader{
+  display: flex;
+  flex-direction: row;
+  width: 1000px;
+  height: fit-content;
+  margin-bottom: 20px;
+  max-width: 100%;
+}
 
+.myheader-attributions{
+  margin-left: 50px;
+  display: flex;
+  flex-direction: row;
+}
 .description{
   width: 1000px;
   text-align: center;
@@ -260,7 +279,7 @@ white;
 
 .rounded-container{
   min-width: 500px;
-  height: 80px;
+
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -269,9 +288,8 @@ white;
   color: white;
   border-radius: 50px;
   width: fit-content;
-  margin-bottom: 20px;
   border-left-width: 0;
-  padding: 10px 30px;
+  padding: 20px 30px;
   font-family: 'druk';
 }
 
@@ -323,7 +341,7 @@ white;
   border-radius: 50px;
   border-top-left-radius: 0px;
   border-bottom-left-radius: 0px;
-  height: 80;
+  height: 80px;
   width: 50%;
   border-left-width: 0;
   padding-left: 20px;
@@ -335,16 +353,20 @@ white;
   border-width: 2px;
   border-color: rgb(105, 135, 201);
   border-radius: 50px;
-  height: 80px;
   width: 80px;
 }
 
 .circle1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   margin-left: 40px;
   border-radius: 50px;
   height: 80px;
   background-color: rgb(105, 135, 201);
   width: 80px;
+  height: auto;
 }
 
 .row{
@@ -356,11 +378,16 @@ white;
   display: flex;
   flex-direction: column;
   align-items: center;
-  row-gap: 5px;
 }
 .membertag{
   font-family: "druk";
-  color: rgb(105, 135, 201);
+  color: #6987c9;
+  text-align: left;
+}
+
+.membertag1{
+  font-family: "druk";
+  color: #6987c9;
   text-align: left;
 }
 
@@ -368,7 +395,6 @@ white;
   display: flex;
   flex-direction: column;
   align-items: left;
-  row-gap: 5px;
   margin-left: 50px;
   margin-top: 25px;
 }
@@ -377,7 +403,6 @@ white;
   display: flex;
   flex-direction: column;
   align-items: left;
-  row-gap: 5px;
   margin-right: 50px;
   margin-top: 25px;
 }
@@ -439,14 +464,30 @@ white;
   width: 600px;
   object-fit: contain;
 }
+.fitimage2{
+  width: 1000px;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+.fitimage3{
+  max-height: 500px;
+  object-fit: contain;
+}
 .imageheader{
   width: 1000px;
   text-align: left;
   color: grey;
+  padding-left: 50px;
 }
 
 
+
 @media screen and (max-width: 1100px) {
+  .imageheader{
+    padding-left: 10px;
+  }
+
   .titlescreentext{
     font-size: 9vw;
   }
@@ -455,6 +496,12 @@ white;
   }
   .fitimage1{
     width: 100%;
+  }
+  .fitimage2{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 10px;
   }
   .imageheader{
     width: 100%;
@@ -467,19 +514,14 @@ white;
   .body{
     width: calc(100% - 100px);
   }
-}
-.myheader{
-  margin:auto;
-  display: flex;
-  flex-direction: row;
-  width: 1000px;
+  .body1{
+    width: calc(100% - 100px);
+  }
+  .circle1{
+    width: 74px;
+  }
 }
 
-.myheader-attributions{
-  margin-left: 50px;
-  display: flex;
-  flex-direction: row;
-}
 
 
 
@@ -491,18 +533,31 @@ white;
   .rounded-container{
     min-width: 0;
     width: calc(100% - 120px);
-    overflow-wrap: break-word;
   }
   .white-rounded-container{
     min-width: 0;
     width: calc(100% - 120px);
-    overflow-wrap: break-word;
+  }
+
+  .circle1{
+    width: 66px;
   }
 }
 
 .sponsorimg{
   width: 200px;
   object-fit: contain;
+}
+
+@media screen and (max-width: 600px){
+  .circle{
+    display: none;
+  }
+  .rounded-container1{
+    width: fit-content;
+    padding-right: 30px;
+  }
+  
 }
 @media  screen and (max-width: 550px) {
   .sponsorimg{
@@ -514,19 +569,26 @@ white;
 }
 
 @media  screen and (max-width: 500px) {
+  .membertag{
+    font-size: x-small;
+  }
+  .membertag1{
+    font-size: medium;
+  }
+  p{
+    font-size: small;
+  }
   .body{
-    width: 100vw;
-    margin: 20px;
+    width: calc(100vw - 30px)
   }  
   .body1{
-    margin: 20px;
+    width: calc(100vw - 30px)
   }  
   .myheader{
     font-size: xx-small;
   }
   .rounded-container{
-    width: calc(100%);
-    margin-right: 0px;
+    width: 100%;
   }
   .circle1{
     display: none;
@@ -539,21 +601,26 @@ white;
 
 .attributions-margin{
   margin-left: 100px;
+  margin-right: 100px;
 }
 
 .attributions{
-  font-size: x-large;
-  color: grey
+  font-size: large;
 }
 
 .indented-attributions{
-  margin-left: 80px
+  padding-left: 80px;
+  margin-right: 100px;
+}
+.attributionsheader{
+  overflow-wrap: break-word;
 }
 
 .member-row{
   display: flex;
   flex-direction: row;
-  align-items: flex-end;
+  column-gap: 20px;
+  align-items: flex-start;
 }
 
 .indented-list{
@@ -563,11 +630,147 @@ white;
 .row1{
   display: flex;
   flex-direction: row;
-  width: calc(50vw - 50px);
+  align-items: flex-start;
+  width: calc(50vw - 60px);
+  height: 300px;
 }
 
 .member-text{
+  height: 300px;
   font-size: small;
   margin-left: 10px;
   margin-right: 10px;
+  line-height: 18px;
+  overflow-y: scroll;
+
+}
+
+.memberimage{
+  object-fit:cover;
+  height: 300px;
+  width: 300px;
+}
+
+@media screen and (max-width: 650px) {
+  .memberimage{
+    height: 200px;
+    width: 120px;
+  }
+
+  .member-text{
+    height: 200px;
+  }
+  
+}
+.teampic{
+  width: 48%;
+}
+
+.teampic-narrow{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+
+}
+
+.spacebetween{
+  width: 100%;
+  justify-content: space-between;
+}
+
+.blob{
+  margin-top: 30px; 
+  width: 100%;
+}
+.blob-narrow{
+  margin-top: 30px; 
+  width: 100%;
+  max-width: 1000px;
+}
+
+.stack{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.stack-narrow{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.stackedchild{
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.whitetext{
+  color: white;
+}
+
+.end{
+  align-items: flex-end;
+}
+
+.halfw{
+  width: 50%;
+}
+
+.white{
+  color: white;
+}
+
+.blobtext{
+  margin: auto;
+  margin-left: 25%;
+  margin-right: 20px;
+}
+
+.blobtext-narrow{
+  margin: 20%;
+}
+
+@media screen and (max-width: 1050px) {
+  .members-wide{
+    display: none;
+  }
+  .members-narrow{
+    display: show;
+  }
+  
+}
+
+@media screen and (min-width: 1050px) {
+  .members-wide{
+    display: show;
+  }
+  .members-narrow{
+    display: none;
+  }
+  
+}
+
+.left{
+  align-items: flex-start;
+  text-align: left;
+}
+
+.right{
+  align-items: flex-end;
+  text-align: right;
+}
+
+.video{
+  height: 315px;
+  width: 560px;
+}
+
+@media screen and (max-width:610px) {
+  .video{
+    width: 100%;
+    object-fit: contain;
+  }
+  
 }

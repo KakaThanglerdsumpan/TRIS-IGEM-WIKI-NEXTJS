@@ -28,7 +28,7 @@ function Implementation({ children }) {
                 </div>
                 <div class = "circle1"></div>
             </div>
-            <div class = "sizedbox20"/>
+            <div class = "sizedbox10"/>
             
             <p class = "indented"> 
             At the current stage of our project, the modified bombolitin antimicrobial peptide has not been developed 
@@ -51,7 +51,7 @@ function Implementation({ children }) {
                             <div class = "circle1"></div>
                         </div>
             {/* HEADER */}
-            <div class = "sizedbox20"/>
+            <div class = "sizedbox10"/>
             {/* PARAGRAPH */}
                         <p class = "indented"> 
                             When discussing the possibility of developing the modified bombolitin into a product, effectiveness and viability of the final product have to be considered. 
@@ -76,11 +76,10 @@ function Implementation({ children }) {
             {/* PARAGRAPH */}
                         <p class = "indented"> 
                             Finally, we have to consider commercial usage. Statistically, the demand of the product should be high. However, farmers may be skeptical of a genetically modified product which would significantly lower the demand. This may be solved through educating local farmers about genetically modified products and the effectiveness of said product. Additionally, the costs of production and the selling price of the product has to be determined. As we know, because of the way the product is being produced, through synthetic biology, the initial cost of the production would be high. Due to this, we would have to find a profitable competitive price for the potential product which would very well be more expensive than commercial chemical pesticides.
-
-
                         </p>
             {/* PARAGRAPH */}
         </div>
+        <div class  = "sizedbox40"/>
        
       </div>
     )
