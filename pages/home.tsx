@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 
 const Home = () => {
     useEffect(() => {
-        window.location.href = '/'
+        window.location.href = '/thailand-ris'
     }, [])
     return (
         <div>
