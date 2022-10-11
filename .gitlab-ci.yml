@@ -11,9 +11,9 @@ cache:
 
 pages:
   before_script:
-    - npm run build
+    - npm run build > /dev/null
   script:
-    - npm run export
+    - npm run export > /dev/null
     - rm -rf public/*
     - mv out/* public
   after_script:
