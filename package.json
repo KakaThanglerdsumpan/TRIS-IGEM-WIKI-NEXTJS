@@ -2,6 +2,7 @@
     "name": "thailandris",
     "version": "0.0.1",
     "private": true,
+    "homepage": "/thailand-ris",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
