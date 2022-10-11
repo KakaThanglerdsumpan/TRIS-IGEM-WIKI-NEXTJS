@@ -1,12 +1,13 @@
 image: node
 
-before_script:
-  - npm install
-
 pages:
   script:
+    - npm install --force
     - npm run build && npm run export
+    - rm -rf public/
+    - mkdir -p public/
     - mv out/* public/.
+    - mv out/.* public/.
   artifacts:
     paths:
       - public
