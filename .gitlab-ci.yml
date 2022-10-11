@@ -1,19 +1,18 @@
-image: node:latest
+image: node
 
 before_script:
-  - npm install --force
-  - npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^6
+  - npm install
+
+cache:
+  key: ${CI_COMMIT_REF_SLUG}
+  paths:
+    - node_modules/
+    - .next/cache/
 
 pages:
-  before_script:
-    - npm run build > /dev/null
   script:
-    - npm run export > /dev/null
-    - rm -rf public/*
-    - mv out/* public
-  after_script:
-    - rm -rf out
-    - ls
+    - npm run build && npm run export
+    - mv out public
   artifacts:
     paths:
       - public
