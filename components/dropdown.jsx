@@ -22,7 +22,7 @@ import Underline from './underline'
                     _focus={{ bg: 'white' }}
  * */
 
-function DropDowns(props: any) {
+function DropDowns(props) {
     const { isOpen, onOpen, onClose } = useDisclosure()
     return (
         <>
@@ -46,7 +46,7 @@ function DropDowns(props: any) {
                     {props.name}
                 </MenuButton>
                 <MenuList onMouseEnter={onOpen} onMouseLeave={onClose}>
-                    {props.arr.map(function (val: any, i: any) {
+                    {props.arr.map(function (val, i) {
                         return (
                             // eslint-disable-next-line react/jsx-key
                             <MenuItem>

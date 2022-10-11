@@ -5,7 +5,7 @@ import LargeNavBar from './largeNavbar'
 import { Show, Hide } from '@chakra-ui/react'
 
 const NavBar = () => {
-    const breakpoint: string = 'xl'
+    const breakpoint = 'xl'
     return (
         <>
             <div className="font-druk text-indigo bg-white py-2 ">

@@ -1,4 +1,4 @@
-const Underline = (props: any) => {
+const Underline = (props) => {
     return (
         <>
             <a

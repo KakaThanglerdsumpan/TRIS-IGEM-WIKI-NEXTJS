@@ -1,10 +1,10 @@
-import Underline from './underline'
 import { Button } from '@chakra-ui/react'
+import Underline from './underline'
 
-const ButtonU = (props: any) => {
+const ButtonS = (props) => {
     return (
         <>
-            <div className="bg-white">
+            <div className="bg-white text-sm text-black">
                 <Button
                     px={4}
                     py={2}
@@ -19,15 +19,17 @@ const ButtonU = (props: any) => {
                     _expanded={{ bg: 'gray.200' }}
                     _active={{ borderColor: 'gray.200' }}
                 >
-                    <Underline
-                        hre={props.name.replace(/\s+/g, '-').toLowerCase()}
-                        name={props.name}
-                        color="indigo"
-                    />
+                    <div className="text-sm">
+                        <Underline
+                            hre={props.name.replace(/\s+/g, '-').toLowerCase()}
+                            name={props.name}
+                            color="black"
+                        />
+                    </div>
                 </Button>
             </div>
         </>
     )
 }
 
-export default ButtonU
+export default ButtonS

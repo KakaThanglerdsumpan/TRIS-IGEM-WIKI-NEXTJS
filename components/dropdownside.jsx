@@ -23,7 +23,7 @@ import { on } from 'events'
                     _focus={{ bg: 'white' }}
  * */
 
-function DropDownU(props: any) {
+function DropDownU(props) {
     const { isOpen, onOpen, onClose } = useDisclosure()
     return (
         <>
@@ -57,7 +57,7 @@ function DropDownU(props: any) {
                         </div>
                     </MenuButton>
                     <MenuList onClick={isOpen ? onClose : onOpen}>
-                        {props.arr.map(function (val: any, i: any) {
+                        {props.arr.map(function (val, i) {
                             return (
                                 // eslint-disable-next-line react/jsx-key
                                 <MenuItem>
