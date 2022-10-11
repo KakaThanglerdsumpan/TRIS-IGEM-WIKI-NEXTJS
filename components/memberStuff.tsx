@@ -3,8 +3,12 @@ const MemberStuff = (props: any) => {
         <div>
             <div className="member-row">
                 <div className="member-column">
-                    <h2 className="membertag">{props.name1.toUpperCase()}</h2>
-                    <h5 className="membertag">{props.person1.toUpperCase()}</h5>
+                    <h2 className="membertag text-lg">
+                        {props.name1.toUpperCase()}
+                    </h2>
+                    <h5 className="membertag text-md">
+                        {props.person1.toUpperCase()}
+                    </h5>
                     <div className="row1">
                         <img src={props.img1} className="memberimage" />
                         <p className="member-text">{props.desc1}</p>
@@ -12,10 +16,10 @@ const MemberStuff = (props: any) => {
                 </div>
 
                 <div className="member-column-right">
-                    <h2 className="membertag align-right">
+                    <h2 className="membertag align-right text-lg">
                         {props.name2.toUpperCase()}
                     </h2>
-                    <h5 className="membertag align-right">
+                    <h5 className="membertag align-right text-md">
                         {props.person2.toUpperCase()}
                     </h5>
                     <div className="row1">
