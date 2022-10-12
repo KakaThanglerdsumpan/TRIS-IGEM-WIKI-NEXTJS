@@ -850,6 +850,13 @@ white;
   }
 }
 
+@media screen and (min-width: 650px) {
+  .titleScreen{
+    min-height: 800px;
+  }
+  
+}
+
 @media screen and (max-width:650px) {
   .video{
     width: 100%;
