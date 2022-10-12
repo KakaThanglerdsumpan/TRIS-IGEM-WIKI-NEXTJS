@@ -21,7 +21,7 @@ const Project = ({ }) => {
           <div class  = "sizedbox20"/>
           <Link href="/results"><h1 class = 'center-text hover-underline-animation1'>RESULTS</h1></Link>
           <div class  = "sizedbox20"/>
-          <Link href="/implementations"><h1 class = 'center-text hover-underline-animation1'>PROPOSED IMPLEMENTATION</h1></Link>
+          <Link href="/implementation"><h1 class = 'center-text hover-underline-animation1'>PROPOSED IMPLEMENTATION</h1></Link>
           <div class  = "sizedbox20"/>
           <Link href="/contribution"><h1 class = 'center-text hover-underline-animation1'>CONTRIBUTION</h1></Link>
           <div class  = "sizedbox20"/>

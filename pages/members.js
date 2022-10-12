@@ -53,8 +53,7 @@ function MembersPage({ children }) {
             <div class = "row1">
             <img src = "https://static.igem.wiki/teams/4314/wiki/messageimage-1665151653993.jpg" class = "memberimage"/>
               <p class = "member-text">
-              In 2019, Ruamrudee International School participated in iGEM for the first time. I was thrilled, therefore, when a second team emerged post-COVID, and asked if I would be one of their advisers for iGEM 2022. Thailand_RIS is excited to deliver on more aspects of the competition and has challenged themselves in both the science and communication. I have had the pleasure of working closely with most team members in my Biology and TOK classes over the past three years, so it is lovely to see their growth. As IB DP Coordinator at RIS, I see this opportunity as a demonstration of inquiry and risk taking, two aspects of the IB Learner Profile. I look forward to hearing the team’s presentation in Paris, discussing areas of success and growth and continuing the conversation back at RIS to support a future iGEM team.              
-              </p>
+              Hi my name is Ada! I am currently a senior in Ruamrudee International School in Bangkok, Thailand. My responsibilities in the team include organizing and looking over the plans of the project as well as helping the team with any problems that may arise. I am forever grateful for my iGEM experience and all of my teammates.               </p>
             </div>
           </div>
 
@@ -541,8 +540,7 @@ function MembersPage({ children }) {
             <div class = "row">
             <img src = "https://static.igem.wiki/teams/4314/wiki/messageimage-1665151653993.jpg" class = "memberimage"/>
               <p class = "member-text">
-              In 2019, Ruamrudee International School participated in iGEM for the first time. I was thrilled, therefore, when a second team emerged post-COVID, and asked if I would be one of their advisers for iGEM 2022. Thailand_RIS is excited to deliver on more aspects of the competition and has challenged themselves in both the science and communication. I have had the pleasure of working closely with most team members in my Biology and TOK classes over the past three years, so it is lovely to see their growth. As IB DP Coordinator at RIS, I see this opportunity as a demonstration of inquiry and risk taking, two aspects of the IB Learner Profile. I look forward to hearing the team&apos;s presentation in Paris, discussing areas of success and growth and continuing the conversation back at RIS to support a future iGEM team.              
-              </p>
+              Hi my name is Ada! I am currently a senior in Ruamrudee International School in Bangkok, Thailand. My responsibilities in the team include organizing and looking over the plans of the project as well as helping the team with any problems that may arise. I am forever grateful for my iGEM experience and all of my teammates.               </p>
             </div>
           </div>
           
