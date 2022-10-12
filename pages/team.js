@@ -6,9 +6,9 @@ const Team = ({ }) => {
   
           <div class = "navbg">
             <div class = "column body">
-              <div class =  "sizedbox200"/>
+              <div class =  "sizedbox100"/>
               <div class = "body">
-              <h1 class = "title">PROJECT</h1>
+              <h1 class = "title">TEAM</h1>
           </div>
           <div class = "sizedbox40"/>
           <img src = "https://static.igem.wiki/teams/4314/wiki/icons8-chevron-100.png" width={80}/>

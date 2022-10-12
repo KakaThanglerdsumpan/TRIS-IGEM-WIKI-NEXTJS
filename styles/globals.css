@@ -59,9 +59,10 @@ p{
   width: 40px;
   height: 4px;
   background-color: rgb(48, 63, 123);
-  border-radius: 2px;
+  border-radius: 0px;
 }
 .nav__menu-list{
+  z-index: 2;
   display: flex;
   flex-direction: column;
   position: fixed;
@@ -254,6 +255,7 @@ p{
 .hover-underline-animation {
   display: inline-block;
   position: relative;
+
   color: 
 white;
 }
@@ -278,9 +280,10 @@ white;
 }
 
 .hover-underline-animation1 {
+  max-width: 100vw;
+  overflow-wrap: break-word;
   font-family: 'druk';
   display: inline-block;
-  position: relative;
   color: 
 white;
 }
@@ -289,26 +292,11 @@ white;
   color: rgb(48, 63, 123);
 }
 
-.hover-underline-animation1:after {
-  content: '';
-  position: absolute;
-  width: 100%;
-  transform: scaleX(0);
-  height: 2px;
-  bottom: 0;
-  left: 0;
-  background-color: rgb(48, 63, 123);
-  transform-origin: bottom right;
-  transition: transform 0.25s ease-out;
-}
 .center-text{
   text-align: center;
 }
 
-.hover-underline-animation1:hover:after {
-  transform: scaleX(1);
-  transform-origin: bottom left;
-}
+
 
 .header1{
   color: rgb(105, 135, 201);
@@ -423,6 +411,7 @@ white;
   align-items: center;
 }
 .membertag{
+  text-transform: uppercase;
   font-family: "druk";
   color: #6987c9;
   text-align: left;
@@ -571,6 +560,9 @@ white;
   }
 }
 
+.membertag1{
+  text-transform: uppercase;
+}
 
 
 
@@ -612,6 +604,9 @@ white;
   
 }
 @media  screen and (max-width: 550px) {
+  .hover-underline-animation1{
+    font-size: 18px;
+  }
   .sponsorimg{
     width: 30%;
   }
@@ -621,9 +616,22 @@ white;
 }
 
 @media  screen and (max-width: 500px) {
+  .member-column{
+    margin-left: 0;
+  }
+  .header1{
+    font-size: 22px;
+  }
+
   .membertag{
     font-size: x-small;
   }
+  
+
+  .membertag h2{
+    font-size: 16px;
+  }
+  
   .membertag1{
     font-size: medium;
   }
@@ -720,6 +728,7 @@ white;
 }
 
 .teampic-narrow{
+  max-height: 500px;
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: auto;
@@ -871,5 +880,12 @@ white;
 
 .some-margin{
   margin-left: 40px;
+}
+
+@media  screen and (max-width:400px) {
+  .logo{
+    font-size: 18px;
+  }
+  
 }
 

@@ -9,8 +9,9 @@ const Project = ({ }) => {
               <div class =  "sizedbox100"/>
               <div class = "body">
               <h1 class = "title">PROJECT</h1>
+              <div class = "sizedbox40"/>
+          
           </div>
-          <div class = "sizedbox40"/>
           <img src = "https://static.igem.wiki/teams/4314/wiki/icons8-chevron-100.png" width={80}/>
           <div class = "sizedbox40"/>
           <Link href="/description"><h1 class = 'center-text hover-underline-animation1'>DESCRIPTION</h1></Link>
@@ -29,6 +30,7 @@ const Project = ({ }) => {
           <div class  = "sizedbox20"/>
           <Link href="/safety"><h1 class = 'center-text hover-underline-animation1'>SAFETY</h1></Link>
           <div class  = "sizedbox80"/>
+         
           
               </div>
           

@@ -513,7 +513,7 @@ function MembersPage({ children }) {
               <h1 class = "header1 center1">
                 INTRODUCING THE TEAM
               </h1>
-              <img src = "https://static.igem.wiki/teams/4314/wiki/group-photo-fun.jpg" class = "teampic-narrow center"/>
+              <img src = "https://static.igem.wiki/teams/4314/wiki/group-photo-fun.jpg" class = "teampic-narrow"/>
                 <p>
                 Hello! We are team Thailand_RIS. Our team is composed of 12 high school students from sophomores to seniors. Let&#39;s meet our team…
                 </p>
@@ -531,7 +531,7 @@ function MembersPage({ children }) {
         <div class = "sizedbox20"/>
     <div class = "body">
     <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Ada Chuhavajira
             </h2>
             <h5 class = "membertag">
@@ -545,7 +545,7 @@ function MembersPage({ children }) {
           </div>
           
           <div class = "member-column">
-            <h2 class = "membertag align">
+            <h2 class = "membertag1 align">
                 Praew Kedpradit
             </h2>
             <h5 class = "membertag align">
@@ -563,7 +563,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Tun Ronnakorn Onraksa
             </h2>
             <h5 class = "membertag">
@@ -583,7 +583,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag align">
+            <h2 class = "membertag1 align">
               Tara Phantharach Natnithikarat
             </h2>
             <h5 class = "membertag align">
@@ -603,7 +603,7 @@ function MembersPage({ children }) {
 
     
           <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Elle Arachaporn Titapand
             </h2>
             <h5 class = "membertag">
@@ -621,7 +621,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag align">
+            <h2 class = "membertag1 align">
               Bhu Pasu Limsiwilai
             </h2>
             <h5 class = "membertag align">
@@ -640,7 +640,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Jase Kemp
             </h2>
             <h5 class = "membertag">
@@ -659,7 +659,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag align">
+            <h2 class = "membertag1 align">
               Team Tatpol Boonme
             </h2>
             <h5 class = "membertag align">
@@ -677,7 +677,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Belle Voraruthai Puengchanchaikul
             </h2>
             <h5 class = "membertag">
@@ -700,7 +700,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag align">
+            <h2 class = "membertag1 align">
               Ivy Thitilapa Sae-Heng
             </h2>
             <h5 class = "membertag align">
@@ -720,7 +720,7 @@ function MembersPage({ children }) {
             </div>
 
             <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Kaka Dhirath Thanglerdsumpan
             </h2>
             <h5 class = "membertag">
@@ -740,7 +740,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag align">
+            <h2 class = "membertag1 align">
               Thamognya Kodi
             </h2>
             <h5 class = "membertag align">
@@ -760,7 +760,7 @@ function MembersPage({ children }) {
             </div>
 
             <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Dr. Alisa Vangnai
             </h2>
             <h5 class = "membertag">
@@ -786,7 +786,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag align">
+            <h2 class = "membertag1 align">
               Dr. Kiattawee Choowongkomon
             </h2>
             <h5 class = "membertag align">
@@ -811,7 +811,7 @@ function MembersPage({ children }) {
             </div>
           </div>
           <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Ms. Nicole Sabet
             </h2>
             <h5 class = "membertag">
@@ -840,7 +840,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag align">
+            <h2 class = "membertag1 align">
               Mr. Olivier Fernandez
             </h2>
             <h5 class = "membertag align">
@@ -867,7 +867,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
             Baifern Danghatai Wongthanaroj
                         </h2>
             <h5 class = "membertag">
@@ -877,7 +877,7 @@ function MembersPage({ children }) {
           
 
           <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Tony Nannan Yeoh
             </h2>
             <h5 class = "membertag">
@@ -886,7 +886,7 @@ function MembersPage({ children }) {
         </div>
 
           <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Joe Kittitat Jaengwang
             </h2>
             <h5 class = "membertag">
@@ -894,8 +894,8 @@ function MembersPage({ children }) {
             </h5>
 
 
-          <div class = "member-column]">
-            <h2 class = "membertag">
+          <div class = "member-column">
+            <h2 class = "membertag1">
               Golf Lueacha Tabtimmai 
             </h2>
             <h5 class = "membertag">
@@ -904,7 +904,7 @@ function MembersPage({ children }) {
           </div>
      
           <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Jess Jedsadakorn Ninrat
             </h2>
             <h5 class = "membertag">
@@ -914,7 +914,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Mel Melvalia Cristin Manik
             </h2>
             <h5 class = "membertag">
@@ -924,7 +924,7 @@ function MembersPage({ children }) {
           </div>
 
           <div class = "member-column">
-            <h2 class = "membertag">
+            <h2 class = "membertag1">
               Bo Prawit Oangkhana
             </h2>
             <h5 class = "membertag">
@@ -932,7 +932,7 @@ function MembersPage({ children }) {
             </h5>
       
           </div>
-
+        <div class = "sizedbox40"/>
         </div>
         </div>
         </div>

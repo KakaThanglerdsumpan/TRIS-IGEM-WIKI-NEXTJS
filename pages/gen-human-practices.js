@@ -9,9 +9,9 @@ const HumanPRacticesNavigation = ({ children }) => {
               <div class =  "sizedbox200"/>
               <div class = "body">
               <h1 class = "title">HUMAN PRACTICES</h1>
-          </div>
-          <div class = "sizedbox40"/>
-          <img src = "https://static.igem.wiki/teams/4314/wiki/icons8-chevron-100.png" width={80}/>
+              <div class = "sizedbox40"/>
+          <div class  = "center-horizontal">
+             <img src = "https://static.igem.wiki/teams/4314/wiki/icons8-chevron-100.png" width={80}/>
           <div class = "sizedbox40"/>
           <Link href="/human-practices"><h1 class = 'center-text hover-underline-animation1'>INTEGRATED HUMAN PRACTICES</h1></Link>
           <div class = "sizedbox20"/>
@@ -20,6 +20,11 @@ const HumanPRacticesNavigation = ({ children }) => {
           <Link href="/partnership"><h1 class = 'center-text hover-underline-animation1'>PARTNERSHIP</h1></Link>
           <div class  = "sizedbox20"/>
           
+
+          </div>
+         
+          </div>
+        
               </div>
           
         </div>
