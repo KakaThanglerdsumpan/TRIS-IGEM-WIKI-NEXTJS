@@ -9,7 +9,7 @@ function Notebook({ }) {
             <div class = "sizedbox40"/>
             <div class = "myheader">
                 <div class = "rounded-container">
-                    <h1 class = 'header2'>Group1</h1>
+                    <h1 class = 'header2'>Group 1</h1>
                 </div>
                 <div class = "circle1"></div>
             </div>
@@ -273,7 +273,7 @@ Agenda: Measure inhibition zone of each plate. Determine success of bombolitin&#
 </p>
             <div class = "sizedbox40"/>
             <div class = "rounded-container">
-                                <h1 class = 'header2'>Group2</h1>
+                                <h1 class = 'header2'>Group 2</h1>
                             </div>
             <div class  = "sizedbox20"/>
             <p>

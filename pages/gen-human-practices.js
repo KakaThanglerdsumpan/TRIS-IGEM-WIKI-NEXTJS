@@ -4,7 +4,7 @@ const HumanPRacticesNavigation = ({ children }) => {
     return (
       <div>
   
-          <div class = "navbg" width>
+          <div class = "navbg">
             <div class = "column body">
               <div class =  "sizedbox200"/>
               <div class = "body">

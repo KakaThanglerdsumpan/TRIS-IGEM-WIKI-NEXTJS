@@ -6,7 +6,7 @@ const Team = ({ }) => {
   
           <div class = "navbg">
             <div class = "column body">
-              <div class =  "sizedbox100"/>
+              <div class =  "sizedbox200"/>
               <div class = "body">
               <h1 class = "title">TEAM</h1>
           </div>

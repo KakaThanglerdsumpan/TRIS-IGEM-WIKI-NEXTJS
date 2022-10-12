@@ -10,15 +10,12 @@ function Implementation({ children }) {
           <div class = "body">
           <p class = "indented"> 
             <b>
-            At the current stage of our project, the modified bombolitin antimicrobial peptide has not been developed 
-            into a product yet. However, looking at the results of in-vitro testing, the modified bombolitin antimicrobial 
-            peptide is capable of inhibiting <i>Ralstonia</i>. Since there are currently no other effective ways to solve the 
-            problem of bacterial wilt, our project will be beneficial to producers of solanaceous crops. 
-            If developed into a product, the modified bombolitin antimicrobial peptide can be used in the form of a spray 
-            that will be applied into the soil since <i>Ralstonia</i> is a soil-borne pathogen. This way, the modified bombolitin 
-            antimicrobial peptide will kill the <i>Ralstonia</i> that is infecting the plants at its roots. The modified bombolitin 
-            antimicrobial peptide will be attracted to the gram negative cell membrane of <i>Ralstonia</i>, promptly disrupt the 
-            membrane structure, and ultimately cause cell lysis. 
+            Our project ultimately aims to produce a product that could substitute the use of chemical 
+            pesticides to combat bacterial wilt. We found that bombolitin has the potential to effectively 
+            combat <i>Ralstonia solanacearum</i>. With this information, we genetically modified <i>E. coli</i> 
+            to produce modified bombolitin with increased hydrophobicity, resulting in increased efficiency. 
+            The modified bombolitin antimicrobial peptide will ultimately be the main composition of a 
+            pesticide-substitute product. 
             </b>
         <div class = "sizedbox60"/>
         </p> 
