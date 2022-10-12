@@ -15,7 +15,7 @@ const HumanPRacticesNavigation = ({ children }) => {
           <div class = "sizedbox40"/>
           <Link href="/human-practices"><h1 class = 'center-text hover-underline-animation1'>INTEGRATED HUMAN PRACTICES</h1></Link>
           <div class = "sizedbox20"/>
-          <Link href="/education"><h1 class = 'center-text hover-underline-animation1'>EDUCATIONAL OUTREACH</h1></Link>
+          <Link href="/communication"><h1 class = 'center-text hover-underline-animation1'>EDUCATIONAL OUTREACH</h1></Link>
           <div class = "sizedbox20"/>
           <Link href="/partnership"><h1 class = 'center-text hover-underline-animation1'>PARTNERSHIP</h1></Link>
           <div class  = "sizedbox20"/>

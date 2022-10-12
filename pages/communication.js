@@ -101,6 +101,7 @@ function Education({ children }) {
                     This way, people would not have to worry about having <i> E. coli </i> on their crops.
                 </p>
             </div>    
+            <div class = "sizedbox60"/>
         </div>
     )
   }

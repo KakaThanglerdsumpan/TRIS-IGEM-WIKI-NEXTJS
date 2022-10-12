@@ -14,7 +14,7 @@ function Attributions({ children }) {
             </div>
             <div class = "circle1"></div>
         </div>
-        <div class = "sizedbox10"/>
+        <div class = "sizedbox60"/>
     
 
         <h1 class = "header1 attributionsheader">LAB</h1>
@@ -65,7 +65,6 @@ function Attributions({ children }) {
         <p class = "attributions"> 
         Baifern Danghatai Wongthanaroj
         </p>
-        <div class = "sizedbox60"></div>
         <div class = "sizedbox20"/>
         <p class = "attributions"><u><b>iGEM Mentor</b></u></p>
         <p class = "attributions"> 
@@ -73,38 +72,26 @@ function Attributions({ children }) {
         </p>
         <div class = "sizedbox60"></div>
 
-
-        <h1 class = "header1">DRY LAB</h1>
-        <div class = "sizedbox30"/>
+        <h1 class = "header1">GROUP 1 LAB SUPPORT</h1>
+        <div class = "sizedbox20"/>
         <p class = "attributions"> 
-        Everyone  names
+        Thailand_RIS would like to thank Chulalongkorn University Lab for providing us with all the necessary equipment and guidance needed to complete our molecular work. This was essential to our project and allowed us to produce the results we needed. We would also like to specially thank Dr. Alisa Vangnai, Jess Jedsadakorn Ninrat, Mel Melvalia Cristin Manik, and Bo Prawit Oangkhana for teaching and helping us every step of the way and giving us constant support and feedback. 
+        </p>
+
+        <div class = "sizedbox60"/>
+        <h1 class = "header1">GROUP 2 LAB SUPPORT</h1>
+        <div class = "sizedbox20"/>
+        <p class = "attributions"> 
+        Thailand_RIS would like to thank Dr. Kiattawee Choowongkomon for his guidance on Biopanning and providing resources and facilities in the labs at Kasetsart University Biochemistry Building. thus allowing us to complete and conduct our research. Most importantly, we would like to sincerely thank Joe Kittitat Jaengwang and Golf Lueacha Tabtimmai for their dedication, patience, suggestions, teaching, and supporting us during our entire process at the lab.
         </p>
         <div class = "sizedbox60"></div>
 
-        <h1 class = "header1">SUB TEAMS</h1>
-
-        <div class = "indented-attributions">
-            <div class = "sizedbox60"/>
-            <h1 class = "header1 attributionsheader">COLLABORATIONS</h1>
-            <div class = "sizedbox30"/>
-            <p class = "attributions"> 
-            Everyone  names
-            </p>
-            <div class = "sizedbox60"></div>
-
-            <h1 class = "header1">WIKI</h1>
-            <div class = "sizedbox30"/>
-            <p class = "attributions"> 
-            Everyone  names
-            </p>
-            <div class = "sizedbox60"></div>
-        </div>
-        <h1 class = "header1">SUPPORT</h1>
-            <div class = "sizedbox30"/>
-            <p class = "attributions"> 
-            Everyone  names
-            </p>
-            <div class = "sizedbox60"></div>
+        <h1 class = "header1">EXTERNAL SUPPORT</h1>
+        <div class = "sizedbox20"/>
+        <p class = "attributions"> 
+        We would like to thank all the teams we collaborated with throughout our iGEM journey: VIT Vellore, Korea_HS, ASIJ_Tokyo, Aboa, Patras Med, iGEM Tec Chihuahua, and iGEM Guelph. Special thanks to the teams we had long-term partnerships with: Stanford and GEMS Taiwan. We would also like to thank all teams who joined our Synbio for Agriculture Team Meetup: UBC iGEM, iGEM IISER Pune, iGEM INSA Lyon, Imperial College London, and iGEM Patras.
+        </p>
+        <div class = "sizedbox60"></div>
         
 
         </div>

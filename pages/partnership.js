@@ -7,11 +7,7 @@ function Partnership({ children }) {
           </div>
           <div class = "body1">
 
-          <div class = "sizedbox20"/>
-          <div class = "center-horizontal">
-          <img src = "https://static.igem.wiki/teams/4314/wiki/screen-shot-2565-10-12-at-09-56-21.png" class = "fitimage1"/>    
-
-          </div>
+          
           <div class = "sizedbox20"/>
 
 
@@ -21,6 +17,11 @@ function Partnership({ children }) {
                 </div>
                 <div class = "circle1"></div>
             </div>
+            <div class = "sizedbox20"/>
+          <div class = "center-horizontal">
+          <img src = "https://static.igem.wiki/teams/4314/wiki/screen-shot-2565-10-12-at-14-28-30.png" class = "fitimage1"/>    
+
+          </div>
             <div class = "center-horizontal">
                             <img src = "https://static.igem.wiki/teams/4314/wiki/partnership1.png" class = "fitimage1"/>    
                         </div>
@@ -29,23 +30,28 @@ function Partnership({ children }) {
                         As we are a first time high school team, we were hoping to get some feedback and guidance in the early stages of iGEM from a more experienced university team. When we reached out to the Stanford iGEM team, they were interested to collaborate with us and provide guidance, so we were able to set up a virtual meeting with them. We kicked off the meeting by presenting our projects to each other. Afterwards, we discussed some of the struggles that we currently had. Given the topics we shared, the Stanford team felt that they had the interest capacity to help us with these struggles and uncertainties, so they offered to mentor us via regular meetings throughout the iGEM journey providing help, guidance, and feedback. Additionally, they were also available through direct messaging to answer any questions we had. After this meeting, both of us talked to the rest of our team members and agreed to form a mentorship together, with regular meetings to check in on our progress and streamlined communication through Instagram Direct Messaging. 
                         </p>
             <div class = "sizedbox20"/>
-            <div class = "myheader">
-                            <div class = "rounded-container">
-                                <h1 class = 'header2'>MENTORSHIP </h1>
-                            </div>
-                            <div class = "circle1"></div>
-                        </div>
+           
+            <h1 class = 'header1'>MENTORSHIP </h1>
+                           
             <div class = "sizedbox20"/>
             <p class = "indented1"> 
                         The mentorship with Stanford played a significant role in choosing the path of modeling and the development of our wiki. During the early stages of the mentorship, our team was unsure on how to approach the building of our wiki page. Knowing this, Stanford, with their superior skills in programming applications, aided us by providing examples on how they went about their wiki. Furthermore, throughout the progression of our wiki, Stanford offered answers to any simple questions we had, and was willing to attend meetings where they would help us troubleshoot any problems encountered. Moreover, we had difficulties understanding what qualified as a proper model, so we requested help from Stanford and they promptly delivered. They gave us feedback on our current model at that time, while also prompting us to reconsider certain aspects of models. The team helped explain to us what exactly models were and why they are used. From this, we realized that we had already been using models in our regular labs. Finally, when our team was having issues finding and understanding the procedures for uploading parts, Stanford assisted us by guiding us through the uploading process and helped clarify a few of the misconceptions we had regarding parts. The Stanford team was extremely helpful and pivotal towards our whole iGem process.
                         </p>
             <div class = "sizedbox20"/>
+
+        
+          <div class = "sizedbox20"/>
             <div class = "myheader">
                 <div class = "rounded-container">
                     <h1 class = 'header2'>Thailand_RIS x GEMS_Taiwan</h1>
                 </div>
                 <div class = "circle1"></div>
             </div>
+            <div class = "sizedbox20"/>
+          <div class = "center-horizontal">
+          <img src = "https://static.igem.wiki/teams/4314/wiki/screen-shot-2565-10-12-at-14-28-45.png" class = "fitimage1"/>    
+
+          </div>
             <div class = "center-horizontal">
                             <img src = "https://static.igem.wiki/teams/4314/wiki/partnership2.png" class = "fitimage1"/>    
                         </div>
@@ -62,12 +68,7 @@ function Partnership({ children }) {
                         this partnership was incredibly beneficial to us and was essential to both of our team&#39;s projects and initiatives. 
                         </p>
             <div class = "sizedbox20"/>
-            <div class = "myheader">
-                            <div class = "rounded-container">
-                                <h1 class = 'header2'>PARTNERSHIP </h1>
-                            </div>
-                            <div class = "circle1"></div>
-                        </div>
+            <h1 class = 'header1'>PARTNERSHIP</h1>
             <div class = "sizedbox20"/>
             <p class = "indented1"> 
                 Throughout our valuable partnership with GEMS Taiwan, our team focussed mainly on these aspects: 

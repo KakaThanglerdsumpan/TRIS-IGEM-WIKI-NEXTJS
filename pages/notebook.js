@@ -58,15 +58,15 @@ Date: Friday 31st, 2022<br/>
 Agenda: Run check on PCR product and digest PCR product<br/>
 Event: Run the PCR product on agarose gel before digesting it with restriction enzymes: NCO I and Hind III. After digestion run the gel on electrophoresis again before cutting the gel and then purifying the gel fragments. Incubate the new PCR product (Insert) with the previous Vector genome sequence. 
 <br/><br/>
-Date: 3rd july, 2022<br/>
+Date: 3rd July, 2022<br/>
 Agenda: Heatshock transformation using new ligation mixture<br/>
 Event: Run heatshock transformation again and prepare 4 new tubes of 5 mL LB broth + antibiotic  for incubation of bacterial colonies.
 <br/><br/>
-Date: 4th july, 2022<br/>
+Date: 4th July, 2022<br/>
 Agenda: Picking colonies and forming master plate<br/>
 Event: Pick colonies from the heatshock transformation plate and scratch colonies onto the masterplate and drop it into the prepared 5 mL Lb broth + antibiotic for plasmid extraction. Incubate the broth overnight. 
 <br/><br/>
-Date: 5th july, 2022<br/>
+Date: 5th July, 2022<br/>
 Agenda: Extract plasmid and redo heat shock<br/>
 Event: After extracting plasmid, we realized that no plasmid was within the cell causing us to redo heat shock again. This time, before plating the entire thing, decrease soc medium from 1000 ul to 900 ul, extend recovery time to 2 hours and centrifuge the soc medium + cell after recovery at 9000 rpm for 3 minutes before discarding 700 uL and then plating the mixture.
 <br/><br/>
@@ -92,18 +92,18 @@ Event: Use electroporation transformation to move plasmid into BL 21 competent c
             <div class = "sizedbox20"></div>
           
           <p> 
-          Date: 10th july, 2022<br/>
+          Date: 10th July, 2022<br/>
 Event: Pick colonies from electroporation plate, and form masterplate. Prepare for the real experiment, pick colonies of a new expression vector (pGex-61) and a 5 ml Lb medium with ampicillin.
 <br/><br/> 
-Date: 11th july, 2022<br/>
+Date: 11th July, 2022<br/>
 Event: Plasmid extraction of Bl21 and new expression vector<br/>
 Agenda: Check uncut plasmid on agarose gel. Digest plasmids with restriction enzymes to check for size. Ifthe Pgex-61 has correct bands, recover the masterplate to 5 ml Lb + AMp for glycerol stock. 
 <br/><br/>
-Date: 18th july. 2022<br/>
+Date: 18th July. 2022<br/>
 Event: Preparation of expression vectors<br/>
 Agenda: Digest pgex-61, load on gel electrophoresis, cut the gel and purify fragments with kits. Inoculate pGex-61 to 5 mL LB + AMp for glycerol stock preparation. 
 <br/><br/>
-Date: 19th july, 2022<br/>
+Date: 19th July, 2022<br/>
 Event: Make glycerol stock for pGex-61<br/>
 Agenda: Take 500 ul overnight culture to microtube, pipette 500 ul (50% glycerol) to tube and mix it well by resuspending. 
 <br/><br/>
@@ -123,27 +123,27 @@ Forward primer = F.Casette Bomb.pGex<br/>
 Reverse primer = R.wm casette Bomb.PG <br/>
 
 <br/><br/>
-Date: 21st july, 2022<br/>
+Date: 21st July, 2022<br/>
 Event: PCR from previous day failed. PCR gradient to figure out correct temp at which denaturation does occur<br/>
 Agenda: Set pcr gradient from 60 celsius to 65 celsius and run new PCR reaction for each of the temperature and run the resulting PCR product on gel electrophoresis to find temperature at which PCR occurred successfully
 <br/><br/>
-Date: 22nd july, 2022<br/>
+Date: 22nd July, 2022<br/>
 Event: Check PCR product from previous day and digest and check for concentration<br/>
 Agenda: Purify PCR product from previous day&#39;s PCR gradient, run check again to ensure genome strand is still present. Digest pGex (Vector) and PCR product (Insert) with SAL I and Bam HI (Restriction enzymes). After digestion, run it on gel electrophoresis, cut gel, and purify fragments then run concentration check on nanodrop machine.
 <br/><br/>
-Date: 25th july, 2022<br/>
+Date: 25th July, 2022<br/>
 Event: Run concentration check on PCR product (Insert) before heading into ligation<br/>
 Agenda: Run gel and nanodrop machine check on PCR product again, and use ratio of 6 cetor to 10 uL to make ligation mixture. Incubate ligation mixture overnight at 16 celsius. 
 <br/><br/>
-Date: 26th july, 2022<br/>
+Date: 26th July, 2022<br/>
 Event: Heatshock transformation of ligation reaction<br/>
 Agenda: Use ligation mixture from the previous day for heatshock transformation. Plate the heatshock in Lb agar + ampicillin and incubate overnight at 37 celsius.
 <br/><br/>
-Date: 27th - 29th july, 2022<br/>
+Date: 27th - 29th July, 2022<br/>
 Event: Failed heatshock transformation with no bacterial colony growth. Redo the whole week.<br/> 
 Agenda: Purify digest cut and purify the PCR product all over again, before heading into ligation. Use the ligation mixture in heatshock transformation.
 <br/><br/>
-Date: 29th july, 2022<br/>
+Date: 29th July, 2022<br/>
 Event: Heatshock transformation result<br/>
 Agenda: Heatshock transformation came out successful with growth. Scratch 6 colonies and plate it onto the master plate.
 Put 6 toothpicks in 5 ml LB broth + 5 uL ampicillin. Incubate toothpick + LB broth and incubated at 37 celsius shaker. 
@@ -258,7 +258,7 @@ Agenda: Prepare negative, and positive sample plates.<br/>
 Grow <i>Ralstonia</i> in 50 mL CPG medium. Grow in 30 celsius at 200 RPM<br/>
 Prepare 300 mL of CPG and allow it to cool before plating.
 <br/><br/>
-Date: 3rd31 August, 2022<br/>
+Date: 31st August, 2022<br/>
 Event: Inhibition assay of Bombolitin and <i>Ralstonia</i>.<br/>
 Agenda: Put 5 mL of saturated <i>Ralstonia</i> culture to the CPG agar prepared the day before.<br/>
 Put disc upon each plate, 4 replication discs for each plate with a drop of either 20mM Tris-Cl (negative control), 500ug of Modified bombolitin, and 100 ug of Amplicilin (Positive control) 
@@ -266,7 +266,7 @@ Allow to solidify for 20 mins<br/>
 Incubate at 30 celsius for 40 hours. 
 <br/><br/>
 
-Date: 4thnd September, 2022<br/>
+Date: 4th September, 2022<br/>
 Event: Check of results from previous day<br/>
 Agenda: Measure inhibition zone of each plate. Determine success of bombolitin&#39;s ability through the size of the circle.
 
