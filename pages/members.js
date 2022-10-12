@@ -402,7 +402,7 @@ function MembersPage({ children }) {
               I am currently teaching Values in middle school as well as Ethics 
               and Peace Studies in high school. I embarked as a Logistic Coordinator 
               to assist Mrs. Nicole Sabet but also due to the fact that I 
-              am "a Parisien" and I know Paris very well.  I am proud and delighted 
+              am &quot;a Parisien&quot; and I know Paris very well.  I am proud and delighted 
               to bring RIS students to the City of Lights: Paris and get the group 
               exposed to French Culture, Arts and Food. Bienvenue en France!
 
@@ -541,7 +541,7 @@ function MembersPage({ children }) {
             <div class = "row">
             <img src = "https://static.igem.wiki/teams/4314/wiki/messageimage-1665151653993.jpg" class = "memberimage"/>
               <p class = "member-text">
-              In 2019, Ruamrudee International School participated in iGEM for the first time. I was thrilled, therefore, when a second team emerged post-COVID, and asked if I would be one of their advisers for iGEM 2022. Thailand_RIS is excited to deliver on more aspects of the competition and has challenged themselves in both the science and communication. I have had the pleasure of working closely with most team members in my Biology and TOK classes over the past three years, so it is lovely to see their growth. As IB DP Coordinator at RIS, I see this opportunity as a demonstration of inquiry and risk taking, two aspects of the IB Learner Profile. I look forward to hearing the team’s presentation in Paris, discussing areas of success and growth and continuing the conversation back at RIS to support a future iGEM team.              
+              In 2019, Ruamrudee International School participated in iGEM for the first time. I was thrilled, therefore, when a second team emerged post-COVID, and asked if I would be one of their advisers for iGEM 2022. Thailand_RIS is excited to deliver on more aspects of the competition and has challenged themselves in both the science and communication. I have had the pleasure of working closely with most team members in my Biology and TOK classes over the past three years, so it is lovely to see their growth. As IB DP Coordinator at RIS, I see this opportunity as a demonstration of inquiry and risk taking, two aspects of the IB Learner Profile. I look forward to hearing the team&apos;s presentation in Paris, discussing areas of success and growth and continuing the conversation back at RIS to support a future iGEM team.              
               </p>
             </div>
           </div>
@@ -859,7 +859,7 @@ function MembersPage({ children }) {
               I am currently teaching Values in middle school as well as Ethics 
               and Peace Studies in high school. I embarked as a Logistic Coordinator 
               to assist Mrs. Nicole Sabet but also due to the fact that I 
-              am "a Parisien" and I know Paris very well.  I am proud and delighted 
+              am &quot;a Parisien&quot; and I know Paris very well.  I am proud and delighted 
               to bring RIS students to the City of Lights: Paris and get the group 
               exposed to French Culture, Arts and Food. Bienvenue en France!
 

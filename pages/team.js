@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const Team = ({ }) => {
     return (
       <div>
@@ -11,11 +13,11 @@ const Team = ({ }) => {
           <div class = "sizedbox40"/>
           <img src = "https://static.igem.wiki/teams/4314/wiki/icons8-chevron-100.png" width={80}/>
           <div class = "sizedbox40"/>
-          <a href="/members"><h1 class = 'center-text hover-underline-animation1'>MEMBER</h1></a>
+          <Link href="/members"><h1 class = 'center-text hover-underline-animation1'>MEMBER</h1></Link>
           <div class = "sizedbox20"/>
-          <a href="/attributions"><h1 class = 'center-text hover-underline-animation1'>ATTRIBUTIONS</h1></a>
+          <Link href="/attributions"><h1 class = 'center-text hover-underline-animation1'>ATTRIBUTIONS</h1></Link>
           <div class = "sizedbox20"/>
-          <a href="/collaborations"><h1 class = 'center-text hover-underline-animation1'>COLLABORATIONS</h1></a>
+          <Link href="/collaborations"><h1 class = 'center-text hover-underline-animation1'>COLLABORATIONS</h1></Link>
           <div class  = "sizedbox20"/>
          
           

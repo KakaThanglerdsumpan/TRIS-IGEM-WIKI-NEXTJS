@@ -1,7 +1,6 @@
 import Link from "next/link";
 import React, { useState } from "react";
 import NavItem from "./NavItem";
-import { Dropdown } from "@nextui-org/react";
 
 
 const MENU_LIST = [
