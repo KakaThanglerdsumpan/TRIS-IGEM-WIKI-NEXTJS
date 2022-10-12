@@ -89,7 +89,7 @@ function Engineering({ }) {
             <h2 class = 'header1'>Learn</h2>
             <div class = "sizedbox20"></div>
           <p class = "indented1"> 
-          Although we weren't able to express all three modifications of bombolitin, we registered all three as Parts on the Parts Registry Page for other teams to use in the future. The fact that the other two modifications were not able to be expressed could be due to multiple reasons, such as mistakes with the protocol such as annealing the primers at the wrong temperature or using competent cells there were too old during heatshock transformation or electroporation. Furthermore, we also learned about the crucial role of thioredoxin in producing the modified bombolitin since it prevents the competent cells from destroying themselves after producing the modified bombolitin.
+          Although we weren&apos;t able to express all three modifications of bombolitin, we registered all three as Parts on the Parts Registry Page for other teams to use in the future. The fact that the other two modifications were not able to be expressed could be due to multiple reasons, such as mistakes with the protocol such as annealing the primers at the wrong temperature or using competent cells there were too old during heatshock transformation or electroporation. Furthermore, we also learned about the crucial role of thioredoxin in producing the modified bombolitin since it prevents the competent cells from destroying themselves after producing the modified bombolitin.
             </p>
             <div class = "sizedbox20"></div>
 

@@ -50,7 +50,7 @@ This attraction will form strong bonds that will cause the His-tags to form bond
         <p> <b>Experiment:</b> </p>
         <p class = "indented">
       
-For our experiment, we had to undergo sonication to remove our protein from the host cell itself. However, when sonication occurs, even though the host cell is destroyed and proteins are free, all of the proteins are merged together. Thus, we had to separate our target protein from the rest of the proteins that kept the cells functioning. To accomplish this, we had to depend upon the His-tags. Within the amino acids of our peptide sequence Histidine which contains polar properties. With this, we decided to use His-columns, columns that are lined on the edges with metal ions, to separate our target protein from the rest. The histidine within our protein sequence will be attracted to the metal ions on the sides of the column due to the bonds that will be formed between the Histidine and metal ions. Since the other protein doesn’t contain Histidine in its sequences, no bonding will occur which will cause it to continually float in the solution mixture, separating it from our target protein. As we wash away the solution mixture, none of our target protein will be removed since it's still bonded to the sides. Afterwards, we wash the column with imidazole, eluting the protein. The imidazole is capable of eluting the protein since it competes with the histidine to bind with the metal ions lining the his columns. 
+For our experiment, we had to undergo sonication to remove our protein from the host cell itself. However, when sonication occurs, even though the host cell is destroyed and proteins are free, all of the proteins are merged together. Thus, we had to separate our target protein from the rest of the proteins that kept the cells functioning. To accomplish this, we had to depend upon the His-tags. Within the amino acids of our peptide sequence Histidine which contains polar properties. With this, we decided to use His-columns, columns that are lined on the edges with metal ions, to separate our target protein from the rest. The histidine within our protein sequence will be attracted to the metal ions on the sides of the column due to the bonds that will be formed between the Histidine and metal ions. Since the other protein doesn’t contain Histidine in its sequences, no bonding will occur which will cause it to continually float in the solution mixture, separating it from our target protein. As we wash away the solution mixture, none of our target protein will be removed since it&apos;s still bonded to the sides. Afterwards, we wash the column with imidazole, eluting the protein. The imidazole is capable of eluting the protein since it competes with the histidine to bind with the metal ions lining the his columns. 
 
         </p>
         <div class = "center-horizontal">
@@ -78,7 +78,7 @@ Other bands are different proteins that were present in host cells after Sonicat
         
         <p><b>References:</b></p>
         <p> 
-        “His-Tag Purification.” <i>Bio</i>, https://www.bio-rad.com/featured/en/his-tag-purification.html.
+        &quot;His-Tag Purification.&quot; <i>Bio</i>, https://www.bio-rad.com/featured/en/his-tag-purification.html.
         </p>
 
         <div class = "sizedbox40"/>
@@ -172,7 +172,7 @@ Kapust, R. B. and Waugh, D. S. (2000). Controlled intracellular processing of fu
 
 Kapust, R. B., Tözsér, J., Fox, J. D., Anderson, D. E., Cherry, S., Copeland, T. D., and Waugh, D. S. (2001). Tobacco etch virus protease: Mechanism of autolysis and rational design of stable mutants with wild-type catalytic proficiency. <i>Prot. Eng.</i> <b>14</b> : 993-1000. <br/><br/>
 
-Kapust, R. B., Tözsér, J., Copeland, T. D., and Waugh, D. S. (2002a). The P1' specificity of tobacco etch virus protease. <i>Biochem. Biophys. Res. Commun.</i> <b>294:</b>  949- 955. <br/><br/>
+Kapust, R. B., Tözsér, J., Copeland, T. D., and Waugh, D. S. (2002a). The P1&apos; specificity of tobacco etch virus protease. <i>Biochem. Biophys. Res. Commun.</i> <b>294:</b>  949- 955. <br/><br/>
 
 Kapust, R. B., Routzahn, K. M., and Waugh, D. S. (2002b). Processive degradation of nascent polypeptides, triggered by tandem AGA codons, limits the accumulation of recombinant TEV protease in Escherichia coli BL21(DE3).<i>Prot. Expr. Purif.</i> <b>24:</b>  61-70. <br/><br/>
 
