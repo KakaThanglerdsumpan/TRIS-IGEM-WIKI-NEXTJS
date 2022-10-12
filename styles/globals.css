@@ -24,6 +24,12 @@ a {
     text-decoration: none;
     color: inherit;
 }
+
+.fontplsdruk {
+
+    font-family: 'druk';
+}
+
 header {
     position: fixed;
     top: 0;

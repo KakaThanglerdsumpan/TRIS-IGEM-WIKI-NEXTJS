@@ -7,9 +7,11 @@ import { ChakraProvider } from '@chakra-ui/react'
 function MyApp({ Component, pageProps }) {
     return (
         <>
+        <div className="text-druk">
             <ChakraProvider>
                 <NavBar />
             </ChakraProvider>
+            </div>
             <Component {...pageProps} />
             <Bottombar />
         </>

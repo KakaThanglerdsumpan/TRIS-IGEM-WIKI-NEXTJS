@@ -8,7 +8,6 @@ module.exports = {
         fontFamily: {
             fira: ['Fira Code'],
             rockabye: ['rockabye'],
-            druk: ['druk']
         },
         extend: {
             height: {

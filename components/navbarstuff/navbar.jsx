@@ -8,7 +8,7 @@ const NavBar = () => {
     const breakpoint = 'xl'
     return (
         <>
-            <div className="font-druk text-indigo bg-white py-2 ">
+            <div className="font-druk fontplsdruk text-indigo bg-white py-2 ">
                 <div className="drop-shadow-xl bg-white p-2">
                     <Show below={breakpoint}>
                         <SideMenu />
