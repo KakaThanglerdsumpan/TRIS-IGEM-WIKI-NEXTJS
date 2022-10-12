@@ -1,25 +1,58 @@
-import DropDowns from './dropdown'
-import ButtonU from './button'
-import SideMenu from './sidemenu'
-import LargeNavBar from './largeNavbar'
-import { Show, Hide } from '@chakra-ui/react'
+import Link from "next/link";
+import React, { useState } from "react";
+import NavItem from "./NavItem";
+import { Dropdown } from "@nextui-org/react";
 
-const NavBar = () => {
-    const breakpoint = 'xl'
-    return (
-        <>
-            <div className="font-druk text-indigo bg-white py-2 ">
-                <div className="drop-shadow-xl bg-white p-2">
-                    <Show below={breakpoint}>
-                        <SideMenu />
-                    </Show>
-                    <Hide below={breakpoint}>
-                        <LargeNavBar />
-                    </Hide>
-                </div>
+
+const MENU_LIST = [
+  { text: "HOME", href: "/" },
+  { text: "TEAM", href: "/team" },
+  { text: "PROJECT", href: "/project" },
+  { text: "MODEL", href: "/model" },
+  { text: "PARTS", href: "/parts" },
+  { text: "HUMAN PRACTICES", href: "/gen-human-practices" },
+  { text: "JUDGING FORM", href: "https://old.igem.org/2022_Judging_Form?id=4314" },
+
+];
+const Navbar = () => {
+  const [navActive, setNavActive] = useState(null);
+  const [activeIdx, setActiveIdx] = useState(-1);
+
+  return (
+    <header>
+      <nav className={`nav`}>
+        <Link href={"/"} class = "logo">
+          <a>
+            <h1 class="logo">THAILAND_RIS</h1>
+          </a>
+        </Link>
+       
+        
+        <div
+          onClick={() => setNavActive(!navActive)}
+          className={`nav__menu-bar`}
+        >
+        
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+        <div className={`${navActive ? "active" : ""} nav__menu-list`}>
+          {MENU_LIST.map((menu, idx) => (
+            <div
+              onClick={() => {
+                setActiveIdx(idx);
+                setNavActive(false);
+              }}
+              key={menu.text}
+            >
+              <NavItem active={activeIdx === idx} {...menu} />
             </div>
-        </>
-    )
-}
+          ))}
+        </div>
+      </nav>
+    </header>
+  );
+};
 
-export default NavBar
+export default Navbar;
