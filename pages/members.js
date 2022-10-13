@@ -290,7 +290,7 @@ function MembersPage({ children }) {
                 Hey my name is Thamognya Kodi, and I am a sophomore at RIS. I
                 like to code Machine Learning apps and watch anime. I helped
                 transform the team&#39;s ideas into tangible form. Kaka and I
-                utilized NextJS, TailwindCSS, ChakraUI, and Sass to help create
+                utilized NextJS to help create
                 the team&#39;s wiki.
               </p>
               <img
@@ -724,7 +724,7 @@ function MembersPage({ children }) {
                 Hey my name is Thamognya Kodi, and I am a sophomore at RIS. I
                 like to code Machine Learning apps and watch anime. I helped
                 transform the team&#39;s ideas into tangible form. Kaka and I
-                utilized NextJS, TailwindCSS, ChakraUI, and Sass to help create
+                utilized NextJS to help create
                 the team&#39;s wiki.
               </p>
             </div>

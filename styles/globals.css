@@ -3,6 +3,11 @@
   src: url("../assets/Druk-Wide.ttf");
 }
 
+@font-face{
+  font-family: "anton";
+  src: url("../assets/Anton-Regular.ttf");
+}
+
 @font-face {
   font-family: "rockabye";
   src: url("../assets/Rockabye-Regular.ttf");
@@ -80,13 +85,10 @@ p {
 }
 .nav__link {
   font-size: 18px;
+  font-weight: bold;
   position: relative;
   transition: all 0.2s;
   color: rgb(48, 63, 123);
-}
-
-.nav__link:hover {
-  font-weight: bold;
 }
 
 .center {
@@ -284,6 +286,11 @@ p {
   color: white;
 }
 
+@media screen and (max-width: 450px){
+  .hover-underline-animation1{
+    font-family: "anton";
+  }  
+}
 .hover-underline-animation1:hover {
   color: rgb(48, 63, 123);
 }
@@ -301,6 +308,8 @@ p {
   color: white;
   font-family: "druk";
 }
+
+
 
 .rounded-container {
   min-width: 500px;
@@ -353,6 +362,8 @@ p {
   padding: 10px 30px;
   font-family: "druk";
 }
+
+
 
 .rounded-container1 {
   display: flex;
@@ -410,10 +421,37 @@ p {
   text-align: left;
 }
 
+
+
 .membertag1 {
   font-family: "druk";
   color: #6987c9;
   text-align: left;
+}
+
+@media screen and (max-width: 450px){
+  .header1{
+    font-family: "anton";
+  }  
+  .header2{
+    font-family: "anton";
+  }
+  .rounded-container{
+    font-family: "anton";
+  }
+  .white-rounded-container{
+    font-family: "anton";
+  }
+  .rounded-container-attributions{
+    font-family: "anton";
+  }
+  .membertag{
+    font-family: "anton";
+  }
+  .membertag1{
+    font-family: "anton";
+  }
+
 }
 
 .member-column {
@@ -871,9 +909,9 @@ p {
   margin-left: 40px;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
   .logo {
-    font-family: "druk";
+    font-family: "anton";
     font-size: 18px;
   }
 }
