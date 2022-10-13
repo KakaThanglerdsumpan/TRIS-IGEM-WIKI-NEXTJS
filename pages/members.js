@@ -22,9 +22,7 @@ function MembersPage({ children }) {
                   class="blob stackedchild"
                 />
                 <p class="stackedchild white blobtext">
-                  Hello! We are team Thailand_RIS. Our team is composed of 12
-                  high school students from sophomores to seniors. Let&#39;s
-                  meet our team…
+                Hello! We are team Thailand_RIS from Bangkok, Thailand. Our team consists of sophomores, juniors, and seniors from Ruamrudee International School who all share the same passion for synthetic biology. As a first year team we are so thankful for being given the chance to work alongside real, professional scientists, helping us towards our goal. This experience and all the things we have learned throughout the journey will forever be a score memory for all of us as we think back to high school.
                 </p>
               </div>
             </div>
@@ -477,8 +475,7 @@ function MembersPage({ children }) {
             class="teampic-narrow"
           />
           <p>
-            Hello! We are team Thailand_RIS. Our team is composed of 12 high
-            school students from sophomores to seniors. Let&#39;s meet our team…
+          Hello! We are team Thailand_RIS from Bangkok, Thailand. Our team consists of sophomores, juniors, and seniors from Ruamrudee International School who all share the same passion for synthetic biology. As a first year team we are so thankful for being given the chance to work alongside real, professional scientists, helping us towards our goal. This experience and all the things we have learned throughout the journey will forever be a score memory for all of us as we think back to high school.
           </p>
 
           <div class="sizedbox60" />

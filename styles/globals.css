@@ -769,9 +769,11 @@ p {
 }
 
 .blobtext {
-  margin: auto;
+  max-height: 220px;
   margin-left: 25%;
-  margin-right: 20px;
+  margin-right: 40px;
+  overflow-y: scroll;
+  
 }
 
 .blobtext-narrow {
