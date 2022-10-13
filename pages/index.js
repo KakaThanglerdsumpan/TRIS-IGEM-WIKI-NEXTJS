@@ -29,13 +29,11 @@ const HomePage = ({ children }) => {
         />
         <iframe
           title="Thailand_RIS: Promotional Video (2022) [English]"
-          width="560"
-          height="315"
           src="https://video.igem.org/videos/embed/01b44551-45e1-4a7f-b7b8-69c312a19cb7"
           frameborder="0"
           allowfullscreen=""
           sandbox="allow-same-origin allow-scripts allow-popups"
-          class="promovid"
+          class="video promovid"
         ></iframe> 
       </div>
       <div class="sizedbox40" />

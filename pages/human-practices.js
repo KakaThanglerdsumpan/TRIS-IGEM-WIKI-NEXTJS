@@ -85,11 +85,11 @@ function HumanPractices({ children }) {
           conditions that the peptide will be used in, since it could denature
           at high temperatures. Considering Thailand&apos;s warm climate, this
           perspective was very beneficial.
-          <b>
+          <b>{" "}
             From this feedback, we were able to brainstorm the idea of applying
             the antimicrobial peptide on the crops exclusively at night,
             eliminating the possibility of denaturation.
-          </b>
+          </b>{" "}
           Additionally, he also brought up the topic of shelf life and the
           potential side effects of the antimicrobial peptide on the consumers.
           At this point in time, we are not able to answer that question yet, as
@@ -119,11 +119,11 @@ function HumanPractices({ children }) {
           fast as chemical pesticides, so the consistent use of our
           antimicrobial peptide will be needed in order to see noticeable
           results. 
-          <b>
+          <b>{" "}
             From this, we decided that if the product were to be used in real
             life, it would need to be applied to the crop regularly, unlike
             chemical pesticides.
-          </b> 
+          </b> {" "}
           Furthermore, the company that he works for is also manufacturing herb
           extracts to combat against plant pathogenic bacteria, so he will be
           very beneficial to the development of our research. He also gave
@@ -164,11 +164,11 @@ function HumanPractices({ children }) {
           plants. It can even spread through water irrigation systems. In order
           to combat this, she suggested that we use a combination of various
           solutions. 
-          <b>
+          <b>{" "}
             Along with our initial antimicrobial peptide, we could use non-uv
             plastic to cover up the crops, helping to prevent the growth of
             bacteria through heat, while also utilizing crop rotation
-          </b>
+          </b>{" "}
           , the process of growing crops from separate families in different
           seasons.
         </p>
@@ -209,7 +209,7 @@ function HumanPractices({ children }) {
           understanding bacterial wilt completely. Having not received any
           profits back from his investment, Mr. Kaseem also revealed that he
           felt discouraged in his efforts to grow pepper. 
-          <b>
+          <b>{" "}
             Other than suggesting that he should try crop rotation this year, we
             also decided to educate people about what bacterial wilt actually is
             in our brochure and educational outreach aspects of the project.
@@ -246,7 +246,7 @@ function HumanPractices({ children }) {
           safety of modified organisms. He mentioned that in order to make
           people trust in our product, we should educate them, and get an
           endorsement from the government. 
-          <b>
+          <b>{" "}
             Since we are not able to go to the level of working with the
             government just yet, we decided that we could educate people through
             our brochure, and teach the next generation about what synthetic
@@ -284,7 +284,7 @@ function HumanPractices({ children }) {
           crops look nicer, while organic pesticides leave minimal aesthetic
           flaws. This could lead consumers to think that chemical pesticides are
           better. 
-          <b>
+          <b>{" "}
             Since we were planning to conduct a public survey at a local market,
             this was something that we had to keep in mind since she also
             mentioned that some businesses lie about their use of chemical
@@ -321,7 +321,7 @@ function HumanPractices({ children }) {
           perfect, without any bite marks from worms or insects at all. This
           could mean that the stalls lied about the use of chemical pesticides,
           they genuinely do not know, or maybe it really was organic farming. 
-          <b>
+          <b>{" "}
             We believe that all of these stalls have to promote their products
             as organic in order to be able to sell to their customers, even if
             some may not be completely true, since there was no way for
@@ -437,7 +437,7 @@ function HumanPractices({ children }) {
           people doing this google form are aware of the negative effects of
           pesticides, nearly half of those people are still doubting synthetic
           biology. 
-          <b>
+          <b>{" "}
             From this, we have realized that what Mr. Yutthana said was true,
             and educating people about synthetic biology should be one of the
             main goals of our project.
@@ -460,7 +460,7 @@ function HumanPractices({ children }) {
           this means that people do care about finding an alternative to
           pesticides, but half of them do not think that synthetic biology is
           the answer. 
-          <b>
+          <b>{" "}
             This demonstrates the need to change the negative stigma against
             synthetic biology in Thailand.
           </b>
@@ -478,7 +478,7 @@ function HumanPractices({ children }) {
           affected their decision of choosing pesticides or not, 86.3% of the
           people said that they would rather pay more in order to buy a product
           that has not been exposed to pesticides.
-          <b>
+          <b>{" "}
             This was the same information that we received from our local survey
             at Sammakorn, so we are able to conclude that price is not a problem
             for people in Thailand, as long as they are able to gain access to
