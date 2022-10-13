@@ -287,11 +287,7 @@ function MembersPage({ children }) {
             <h5 class="membertag align-right">Wiki Member</h5>
             <div class="row1">
               <p class="member-text align-right">
-                Hey my name is Thamognya Kodi, and I am a sophomore at RIS. I
-                like to code Machine Learning apps and watch anime. I helped
-                transform the team&#39;s ideas into tangible form. Kaka and I
-                utilized NextJS to help create
-                the team&#39;s wiki.
+              Thamognya Kodi is a sophomore at Ruamrudee International School. Working as one of the two coders in Thailand_RIS
               </p>
               <img
                 src="https://static.igem.wiki/teams/4314/wiki/thamognya.jpg"
@@ -721,11 +717,7 @@ function MembersPage({ children }) {
                 class="memberimage"
               />
               <p class="member-text align">
-                Hey my name is Thamognya Kodi, and I am a sophomore at RIS. I
-                like to code Machine Learning apps and watch anime. I helped
-                transform the team&#39;s ideas into tangible form. Kaka and I
-                utilized NextJS to help create
-                the team&#39;s wiki.
+              Thamognya Kodi is a sophomore at Ruamrudee International School. Working as one of the two coders in Thailand_RIS
               </p>
             </div>
           </div>
