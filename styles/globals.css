@@ -3,11 +3,6 @@
   src: url("../assets/Druk-Wide.ttf");
 }
 
-@font-face{
-  font-family: "anton";
-  src: url("../assets/Anton-Regular.ttf");
-}
-
 @font-face {
   font-family: "rockabye";
   src: url("../assets/Rockabye-Regular.ttf");
@@ -286,11 +281,6 @@ p {
   color: white;
 }
 
-@media screen and (max-width: 450px){
-  .hover-underline-animation1{
-    font-family: "anton";
-  }  
-}
 .hover-underline-animation1:hover {
   color: rgb(48, 63, 123);
 }
@@ -429,30 +419,6 @@ p {
   text-align: left;
 }
 
-@media screen and (max-width: 450px){
-  .header1{
-    font-family: "anton";
-  }  
-  .header2{
-    font-family: "anton";
-  }
-  .rounded-container{
-    font-family: "anton";
-  }
-  .white-rounded-container{
-    font-family: "anton";
-  }
-  .rounded-container-attributions{
-    font-family: "anton";
-  }
-  .membertag{
-    font-family: "anton";
-  }
-  .membertag1{
-    font-family: "anton";
-  }
-
-}
 
 .member-column {
   display: flex;
@@ -911,7 +877,7 @@ p {
 
 @media screen and (max-width: 450px) {
   .logo {
-    font-family: "anton";
+    font-family: "druk";
     font-size: 18px;
   }
 }
