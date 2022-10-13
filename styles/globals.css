@@ -700,12 +700,21 @@ p {
   height: 300px;
   width: 300px;
 }
-
+@media screen and (min-width: 650px) {
+  .olivier1{
+    display: none;
+  }
+  
+}
 @media screen and (max-width: 650px) {
   .memberimage {
     height: 200px;
     width: 120px;
   }
+  .olivier2{
+    display: none;
+  }
+  
 
   .member-text {
     height: 200px;
@@ -881,3 +890,4 @@ p {
     font-size: 18px;
   }
 }
+

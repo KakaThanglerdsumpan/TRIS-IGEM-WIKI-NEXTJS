@@ -803,8 +803,12 @@ function MembersPage({ children }) {
             <h5 class="membertag align">Logistics Coordinator</h5>
             <div class="row">
               <img
+                src="https://static.igem.wiki/teams/4314/wiki/screen-shot-2565-10-14-at-00-52-54.png"
+                class="memberimage olivier1"
+              />
+               <img
                 src="https://static.igem.wiki/teams/4314/wiki/olivier.png"
-                class="memberimage"
+                class="memberimage olivier2"
               />
               <p class="member-text align">
                 My name is Olivier Fernandez, I am a French national living,
