@@ -168,7 +168,7 @@ function HumanPractices({ children }) {
             Along with our initial antimicrobial peptide, we could use non-uv
             plastic to cover up the crops, helping to prevent the growth of
             bacteria through heat, while also utilizing crop rotation
-          </b>{" "}
+          </b>
           , the process of growing crops from separate families in different
           seasons.
         </p>

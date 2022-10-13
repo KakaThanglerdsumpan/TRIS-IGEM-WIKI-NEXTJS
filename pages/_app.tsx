@@ -3,6 +3,7 @@ import Navbar from "../components/Navbar";
 import Bottombar from "../components/Bottombar";
 import type { AppProps } from "next/app";
 import React from "react";
+import Link from "next/link";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
