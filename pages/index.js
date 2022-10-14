@@ -27,14 +27,7 @@ const HomePage = ({ children }) => {
           src="https://static.igem.wiki/teams/4314/wiki/blob-1.svg"
           class="stackedchild bgblob"
         />
-        <iframe
-          title="Thailand_RIS: Promotional Video (2022) [English]"
-          src="https://video.igem.org/videos/embed/01b44551-45e1-4a7f-b7b8-69c312a19cb7"
-          frameborder="0"
-          allowfullscreen=""
-          sandbox="allow-same-origin allow-scripts allow-popups"
-          class="video promovid"
-        ></iframe> 
+      <iframe title="Thailand_RIS: Bacteria-Battling Bombolitin (2022) - Project Promotion [English]" class = "video promovid" src="https://video.igem.org/videos/embed/2a213e6b-77ef-475c-94ec-f4ba8cef0e55" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
       </div>
       <div class="sizedbox40" />
     </div>
