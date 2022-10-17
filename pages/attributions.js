@@ -34,7 +34,7 @@ function Attributions({ children }) {
         </p>
         <p class="attributions">
           Belle Voraruthai Puengchanchaikul, Elle Arachaporn Titapand, Tara
-          Phantharach Natnithikarat, Tun Ronnakorn Onraksa 
+          Phantharach Natnithikarat, Tun Ronnakorn Onraksa
         </p>
         <div class="sizedbox60"></div>
 
@@ -47,7 +47,7 @@ function Attributions({ children }) {
         </p>
         <p class="attributions">
           Belle Voraruthai Puengchanchaikul, Jase Kemp, Praew Kedpradit, Tara
-          Phantharach Natnithikarat 
+          Phantharach Natnithikarat
         </p>
         <div class="sizedbox20" />
         <p class="attributions">
@@ -68,7 +68,7 @@ function Attributions({ children }) {
         </p>
         <p class="attributions">
           Ada Chunhavajira, Ivy Thitilapa Sae-Heng, Jase Kemp, Kaka Dhirath
-          Thanglerdsumpan, Praew Kedpradit, Thamognya Kodi 
+          Thanglerdsumpan, Praew Kedpradit, Thamognya Kodi
         </p>
         <div class="sizedbox60"></div>
 

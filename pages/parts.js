@@ -62,7 +62,7 @@ function Parts({}) {
           modified bombolitin, three additional amino acids, WWW, were added to
           the end of the sequence. The sequence is LNLKKILGKIGVMLSHLNWWW. Its
           net charge is +3.25, hydrophobic ratio is 55%, and GRAVY Index is
-          0.91. 
+          0.91.
         </p>
         <div class="sizedbox20"></div>
 

@@ -190,9 +190,7 @@ function Education({ children }) {
         <div class="sizedbox40" />
         <div class="myheader">
           <div class="rounded-container">
-            <h1 class="header2">
-              High School and Adults Educational Outreach 
-            </h1>
+            <h1 class="header2">High School and Adults Educational Outreach</h1>
           </div>
           <div class="circle1"></div>
         </div>
@@ -229,7 +227,7 @@ function Education({ children }) {
           actually safe to use. Keeping those in mind, we told them that we plan
           to extract the modified bombolitin from the E. coli that was used to
           produce the peptide, then put the peptide in a spray. This way, people
-          would not have to worry about having <i> E. coli </i> on their crops.
+          would not have to worry about having <i>E. coli</i> on their crops.
         </p>
       </div>
       <div class="center-horizontal">

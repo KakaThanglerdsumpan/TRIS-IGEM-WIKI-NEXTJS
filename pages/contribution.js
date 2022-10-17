@@ -29,18 +29,16 @@ function Contribution() {
           We contributed to future iGEM teams by completing a characterization
           on the existing part
           <a href="http://parts.igem.org/Part:BBa_K1223006" class="blue">
-             
             <u>BBa_K1223006</u>
           </a>
           .
         </p>
         <div class="sizedbox20" />
         <p class="indented">
-          Characterization of 
+          Characterization of
           <a href="http://parts.igem.org/Part:BBa_K1223006" class="blue">
-             
             <u>BBa_K1223006</u>
-          </a> 
+          </a>
           TRIS_iGEM team
         </p>
         <div class="sizedbox20" />
@@ -60,8 +58,7 @@ function Contribution() {
         </p>
         <div class="sizedbox20" />
         <p>
-           
-          <b>Experiment:</b> 
+          <b>Experiment:</b>
         </p>
         <p class="indented">
           For our experiment, we had to undergo sonication to remove our protein
@@ -147,7 +144,7 @@ function Contribution() {
         <div class="sizedbox20"></div>
         <p class="indented">
           We contributed to future iGEM teams by characterizing and performing a
-          literature review on the part 
+          literature review on the part
           <a href="http://parts.igem.org/Part:BBa_J18918" class="blue">
             <u>BBa_J18918</u>
           </a>
@@ -164,12 +161,11 @@ function Contribution() {
         </p>
         <p class="indented">
           For our project, we aimed to express an antimicrobial peptide (AMP), a
-          modified version of bombolitin 
+          modified version of bombolitin
           <a href="http://parts.igem.org/Part:BBa_J18918" class="blue">
-             
             <u>BBa_J18918</u>
           </a>
-          , in <i>E. coli.</i> However, due to its antimicrobial properties, we
+          ,in <i>E. coli.</i> However, due to its antimicrobial properties, we
           could not express the modified bombolitin directly.
         </p>
 
@@ -223,7 +219,7 @@ function Contribution() {
         <div class="sizedbox20"></div>
         <p class="indented">
           Team Thailand_RIS (iGEM 2022) used the TEV cleavage site as a crucial
-          part of our project, allowing us to express our modified bombolitin in 
+          part of our project, allowing us to express our modified bombolitin in{" "}
           <i>E. coli</i>, despite its antimicrobial nature. Since TEV protease
           is widely used for cleaving fused proteins, we decided to do a
           literature review to add additional information to the registry page
@@ -279,14 +275,12 @@ function Contribution() {
         </p>
         <p>
           Fox, J. D. and Waugh, D. S. (2003). Maltose-binding protein as a
-          solubility enhancer. <i>Methods Mol. Biol.</i> <b>205:</b> 99-117. 
+          solubility enhancer. <i>Methods Mol. Biol.</i> <b>205:</b> 99-117.
           <br />
           <br />
           Kapust, R. B. and Waugh, D. S. (1999). Escherichia coli
           maltose-binding protein is uncommonly effective at promoting the
-          solubility of polypeptides to which it is fused. <i>
-            Protein Sci.
-          </i> 
+          solubility of polypeptides to which it is fused. <i>Protein Sci.</i>
           <b>8:</b> 1668-1674. <br />
           <br />
           Kapust, R. B. and Waugh, D. S. (2000). Controlled intracellular
@@ -300,20 +294,20 @@ function Contribution() {
           993-1000. <br />
           <br />
           Kapust, R. B., Tözsér, J., Copeland, T. D., and Waugh, D. S. (2002a).
-          The P1&apos; specificity of tobacco etch virus protease. 
+          The P1&apos; specificity of tobacco etch virus protease.{" "}
           <i>Biochem. Biophys. Res. Commun.</i> <b>294:</b> 949- 955. <br />
           <br />
           Kapust, R. B., Routzahn, K. M., and Waugh, D. S. (2002b). Processive
           degradation of nascent polypeptides, triggered by tandem AGA codons,
           limits the accumulation of recombinant TEV protease in Escherichia
-          coli BL21(DE3).<i>Prot. Expr. Purif.</i> <b>24:</b> 61-70. <br />
+          coli BL21(DE3). <i>Prot. Expr. Purif.</i> <b>24:</b> 61-70. <br />
           <br />
           Lucast, L. J., Batey, R. T., and Doudna, J. A. (2001). Large-scale
           purification of a stable form of recombinant tobacco etch virus
           protease. <i>Biotechniques</i> <b>30:</b> 544-550. <br />
           <br />
           Mohanty, A. K., Simmons, C.R., and Wiener, M.C. (2003). Inhibition of
-          tobacco etch virus protease activity by detergents. 
+          tobacco etch virus protease activity by detergents.{" "}
           <i>Protein Expr. Purif.</i> <b>27:</b> 109-114. <br />
           <br />
           Phan, J., Zdanov, A., Evdokimov, A. G., Tropea, J. E., Peters, H. P.
@@ -322,7 +316,7 @@ function Contribution() {
           protease. <i>J. Biol. Chem.</i> <b>277:</b> 50564-50572. <br />
           <br />
           Zhang, QY., Yan, ZB., Meng, YM. et al. (2021). Antimicrobial peptides:
-          mechanism of action, activity and clinical potential. 
+          mechanism of action, activity and clinical potential.{" "}
           <i>Military. Med. Res.</i> <b>8:</b> 48 <br />
           <br />
         </p>

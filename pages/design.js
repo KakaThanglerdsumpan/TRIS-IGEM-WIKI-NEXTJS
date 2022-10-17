@@ -9,13 +9,13 @@ function Design({}) {
         <h1 class="header1">Research Plans</h1>
         <div class="sizedbox20"></div>
         <p class="indented1">
-          Our goal is to find a new peptide that is able to inhibit 
-          <i>Ralstonia</i> and also genetically modify <i>E.coli</i> plasmid
+          Our goal is to find a new peptide that is able to inhibit
+          <i> Ralstonia</i> and also genetically modify <i>E.coli</i> plasmid
           (pET-32a) in order to grant it the ability to produce modified
           bombolitin antimicrobial peptide. Hence, the three modifications of
           the bombolitin will be expressed: FFF, WWW, and LLL. We have achieved
           this aim through 3 main steps: Biopanning, Expression, and In-Vitro
-          Testing. 
+          Testing.
         </p>
         <div class="sizedbox20"></div>
         <h1 class="header1">Biopanning</h1>
@@ -23,8 +23,8 @@ function Design({}) {
         <p class="indented1">
           Biopanning is a technique used to discover new peptides with similar
           behaviors to bombolitin by identifying the values of nanobodies that
-          bind best with the target bacteria. The target bacteria, 
-          <i>R.solanacearum</i>, will be immobilized and prepared as a chain of
+          bind best with the target bacteria. The target bacteria,
+          <i> R.solanacearum</i>, will be immobilized and prepared as a chain of
           96 well plates containing a Phosphate-buffered saline solution that
           will contain 0.05% Tween-20, which is less toxic and a better fit for
           our procedures. The biopanning process was repeated two times. The
@@ -77,7 +77,7 @@ function Design({}) {
         <div class="sizedbox20" />
         <p class="indented1">
           After the PCR, the plasmid is purified by restriction enzymes BamHI
-          and SalI, at which point, ligation will be performed. 
+          and SalI, at which point, ligation will be performed.
         </p>
         <div class="sizedbox20" />
         <p class="indented1">
@@ -89,7 +89,7 @@ function Design({}) {
           protein expression. The competent cell DH5α is then used to duplicate
           more of the combined plasmid, while BL21 is used to induce protein
           expression. After moving combined plasmids into BL21 competent cells,
-          protein expression can occur. 
+          protein expression can occur.
         </p>
         <div class="sizedbox20" />
 
@@ -142,11 +142,11 @@ function Design({}) {
           In-Vitro Testing is a test of the efficiency and effectiveness of the
           modified peptides on different <i>Ralstonia</i> bacteria strains. For
           this, we did an inhibition assay by agar disc diffusion method. There
-          are three plates: negative control, positive control, and samples. The 
-          <i>Ralstonia</i> is grown in a CPG medium, which takes around two
+          are three plates: negative control, positive control, and samples. The
+          <i> Ralstonia</i> is grown in a CPG medium, which takes around two
           days. 5mL of <i>Ralstonia</i> is then plated. The disc is placed on
           each plate. After incubating at 30°C for 40 hours, the inhibition zone
-          for each plate is measured. 
+          for each plate is measured.
         </p>
         <div class="sizedbox20" />
         <div class="center-horizontal">

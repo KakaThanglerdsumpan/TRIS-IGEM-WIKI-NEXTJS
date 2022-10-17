@@ -39,9 +39,9 @@ function Description({ children }) {
           />
           <p class="fitimage1">
             Pictures taken from: says, Bruce, et al. “The Truth about Pesticide
-            Use in Thailand.” 
+            Use in Thailand.”
             <i> The Thailand Life | Award-Winning Thai Blog</i>, 11 Apr. 2018,
-            https://www.thethailandlife.com/truth-about-pesticides-thailand. 
+            https://www.thethailandlife.com/truth-about-pesticides-thailand.
           </p>
         </div>
         <div class="sizedbox20"></div>
@@ -54,9 +54,9 @@ function Description({ children }) {
           trying to keep crops healthy. Alongside these two hindrances, farmers
           also have to deal with bacteria that is capable of causing infectious
           diseases on plants.
-          <i> Ralstonia solanacearum </i>, is an example of these
-          disease-causing bacterias. Bacterial wilt, a disease caused by
-          <i> R. solanacearum </i>, is a fatal infection that affects water
+          <i> Ralstonia solanacearum</i>, is an example of these disease-causing
+          bacterias. Bacterial wilt, a disease caused by
+          <i> R. solanacearum</i>, is a fatal infection that affects water
           uptake of the plant, causing malnutrition and eventually death within
           the crop. Alongside this malignant effect, bacterial wilt is easily
           spreadable throughout entire fields, making it extremely detrimental
@@ -76,9 +76,9 @@ function Description({ children }) {
             class="fitimage1"
           />
           <p class="fitimage1">
-            Picture taken from: “Ralstonia Solanacearum.” <i> Wikipedia </i>,
+            Picture taken from: “Ralstonia Solanacearum.” <i> Wikipedia</i>,
             Wikimedia Foundation, 30 Sept. 2022,
-            https://en.wikipedia.org/wiki/Ralstonia_solanacearum. 
+            https://en.wikipedia.org/wiki/Ralstonia_solanacearum.
           </p>
         </div>
         <div class="sizedbox20"></div>
@@ -91,10 +91,10 @@ function Description({ children }) {
           together. Bombolitin holds the ability to interact with this
           phospholipid bilayer, allowing for disruption within the cell and
           eventually cell lysis. This holds especially true for cell membranes
-          with more negative charges, specifically <i>Ralstonia</i>. Since 
-          <i>Ralstonia</i> contains a negatively charged cell membrane, the
-          positively charged bombolitin will be attracted to the membrane of the 
-          <i>Ralstonia</i>, allowing the peptide to interact with the lipid
+          with more negative charges, specifically <i>Ralstonia</i>. Since
+          <i> Ralstonia</i> contains a negatively charged cell membrane, the
+          positively charged bombolitin will be attracted to the membrane of the
+          <i> Ralstonia</i>, allowing the peptide to interact with the lipid
           bilayer of the bacteria. These interactions will result in the
           aforementioned cell membrane disruption and lysis, making bombolitin
           capable of inhibiting <i>Ralstonia</i> activity. This capability
@@ -121,12 +121,12 @@ function Description({ children }) {
             class="fitimage1"
           />
           <p class="fitimage1">
-             
-            Pictures taken from:“Bl21 (DE3) Chemically Competent E. Coli Cells.” 
-            <i>GoldBio</i>,
-            https://www.goldbio.com/product/14440/bl21-de3-chemically-competent-e-coli-cells. 
+            Pictures taken from:“Bl21 (DE3) Chemically Competent E. Coli Cells.”
+            <i> GoldBio</i>,
+            https://www.goldbio.com/product/14440/bl21-de3-chemically-competent-e-coli-cells.
           </p>
         </div>
+        <div class="sizedbox60" />
       </div>
     </div>
   );

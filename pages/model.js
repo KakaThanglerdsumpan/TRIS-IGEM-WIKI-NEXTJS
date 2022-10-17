@@ -26,7 +26,7 @@ function Model({}) {
           antimicrobial peptide that has the ability to penetrate cell membranes
           and cause cell lysis. Our project aims to modify the structure of the
           bombolitin through the addition of three amino acids in order to
-          increase the peptide&#39;s hydrophobicity and ability to penetrate the 
+          increase the peptide&#39;s hydrophobicity and ability to penetrate the{" "}
           <i>Ralstonia Solanacearum</i> cell membranes. There are various
           possibilities in which the three additional amino acids can be
           ordered. Although it is possible to express and perform in-vitro

@@ -99,8 +99,8 @@ p {
   text-align: center;
 }
 @media screen and (min-width: 1200px) {
-  .nav__link{
-    font-family: 'druk';
+  .nav__link {
+    font-family: "druk";
   }
   nav {
     padding: 0px;
@@ -299,8 +299,6 @@ p {
   font-family: "druk";
 }
 
-
-
 .rounded-container {
   min-width: 500px;
 
@@ -352,8 +350,6 @@ p {
   padding: 10px 30px;
   font-family: "druk";
 }
-
-
 
 .rounded-container1 {
   display: flex;
@@ -411,14 +407,11 @@ p {
   text-align: left;
 }
 
-
-
 .membertag1 {
   font-family: "druk";
   color: #6987c9;
   text-align: left;
 }
-
 
 .member-column {
   display: flex;
@@ -701,20 +694,18 @@ p {
   width: 300px;
 }
 @media screen and (min-width: 650px) {
-  .olivier1{
+  .olivier1 {
     display: none;
   }
-  
 }
 @media screen and (max-width: 650px) {
   .memberimage {
     height: 200px;
     width: 120px;
   }
-  .olivier2{
+  .olivier2 {
     display: none;
   }
-  
 
   .member-text {
     height: 200px;
@@ -787,7 +778,6 @@ p {
   margin-left: 25%;
   margin-right: 40px;
   overflow-y: scroll;
-  
 }
 
 .blobtext-narrow {
@@ -890,4 +880,3 @@ p {
     font-size: 18px;
   }
 }
-

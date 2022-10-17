@@ -392,11 +392,11 @@ function Notebook({}) {
           Event: Digestion of PCR product to check for bands
           <br />
           Agenda: Run digestion on purified PCR product from previous day to
-          ensure that this leftover PCR product is still viable for usage. 
+          ensure that this leftover PCR product is still viable for usage.
           <br />
           Run digestion on Purified LL, FFF, WWW modified insert as well to make
           sure that no denaturation occurs which could&#39;ve caused for the
-          failed results the previous days Set ligation mixture with new ratio: 
+          failed results the previous days Set ligation mixture with new ratio:
           <br />
           4 ul of Vector to 8 uL of insert (Ratio #1)
           <br />
@@ -453,7 +453,7 @@ function Notebook({}) {
           Agenda: Transfer 1% of overnight culture to flask with 50 mL LB medium
           in 250 mL flask with 100 mg/ml Ampcilin. <br />
           Incubate it at 37 celsius at 250 RPM until OD (optical density)
-          reaches 0.6 mU, indicating a good concentration of cells and protein. 
+          reaches 0.6 mU, indicating a good concentration of cells and protein.
           <br />
           After OD reaches 0.6 mU, induce protein expression by adding 0.5mM
           IPTG. Incubate the solution for 4 hours at 37 celsius at 250 RPM.
@@ -559,9 +559,9 @@ function Notebook({}) {
             <li>Experiments</li>
             <ul class="some-margin">
               <li>
-                Immobilize each prepared bacteria chain (1 well for 
-                <i>S.aureus</i>, 1 well for <i>E.coli</i> DH5alpha, 3 wells for 
-                <i>R.solanacearum</i>) onto a 96 well plate with coating buffer
+                Immobilize each prepared bacteria chain (1 well for
+                <i> S.aureus</i>, 1 well for <i>E.coli</i> DH5alpha, 3 wells for
+                <i> R.solanacearum</i>) onto a 96 well plate with coating buffer
                 and incubate at 37 degrees celsius overnight
               </li>
             </ul>
@@ -580,10 +580,10 @@ function Notebook({}) {
               described above.
             </li>
             <li>
-              The prepared phage library (10e11 pfu) was added into the 
+              The prepared phage library (10e11 pfu) was added into the{" "}
               <i>E.coli</i> DH5 alpha and <i>S. aureus</i>-immobilized well and
               incubated for 1 h as a subtracting step. The unbound fraction of
-              the subtracting step was then added into the immobilized 
+              the subtracting step was then added into the immobilized{" "}
               <i>R.solanacearum</i> and incubated for another 1 h.
             </li>
             <li>
@@ -604,8 +604,8 @@ function Notebook({}) {
               phages fraction was 10-fold diluted with LB medium for infection.
             </li>
             <li>
-              The diluted phages were added into mid-log phase <i>E. coli</i> 
-              TG1 and incubated at 37oC for 1h without shaking. The infected 
+              The diluted phages were added into mid-log phase <i>E. coli</i>{" "}
+              TG1 and incubated at 37oC for 1h without shaking. The infected{" "}
               <i>E. coli</i> was separately spread onto LB agar containing 50
               μg/mL ampicillin.
             </li>
@@ -621,13 +621,13 @@ function Notebook({}) {
           <ul class="some-margin">
             <li>
               The second biopanning round uses 1X PBS containing 0.5% tween 20
-              but it doesn&#39;t use <i>E.coli</i> TG1 but is infected into 
+              but it doesn&#39;t use <i>E.coli</i> TG1 but is infected into{" "}
               <i>E.coli</i> HB2151.
             </li>
             <li>
               20 colonies (<i>E.coli</i> HB2151) were randomly picked to
               determine binding capacity to <i>R.solanacearum</i> by Indirect
-              Enzyme-Linked Immunosorbent Assay 
+              Enzyme-Linked Immunosorbent Assay
             </li>
           </ul>
         </p>

@@ -175,7 +175,7 @@ function Results({ children }) {
         {/* PARAGRAPH */}
         <p class="indented1">
           The negative control was buffered saline, which shows no antimicrobial
-          activity. 500ug of original Bombolitin also shows inhibition of 
+          activity. 500ug of original Bombolitin also shows inhibition of{" "}
           <i>Ralstonia</i>, but not as significant as the modified Bombolitin or
           positive control. For the modified Bombolitin, the diameter of
           inhibition is 5mm. The positive control used ampicillin which has an
@@ -237,11 +237,11 @@ function Results({ children }) {
           biopanning, each labeled respectively. In the first round of
           biopanning, we put the nanobodies at a concentration of 10e11
           infectious particles within the sample and received an output of 10e4
-          infectious particles within the sample when we infected <i>E.coli</i> 
+          infectious particles within the sample when we infected <i>E.coli</i>{" "}
           TG1. We then precipitated the phage. In the second biopanning round,
           we continued to take the phage that we precipitated by putting it at
           the same concentration of 10e11. As a result, we got a higher output
-          of 10e8 infectious particles within the sample after infecting it into 
+          of 10e8 infectious particles within the sample after infecting it into{" "}
           <i>E.coli</i> HB2151, indicating that we got more specific nanobodies.
         </p>
         {/* PARAGRAPH */}
@@ -269,10 +269,10 @@ function Results({ children }) {
         {/* PARAGRAPH */}
         <p class="indented1">
           Furthermore, Indirect Enzyme-Linked Immunosorbent Assay (ELISA) was
-          used to test which nanobody binds best with the <i>R.solanacearum</i> 
+          used to test which nanobody binds best with the <i>R.solanacearum</i>
           out of the 20 PBS clones. The clones were compared with PBS in order
           to identify the most specific nanobody. Based on the data graph above,
-          clones number 1, 7, 8, and 17 will be able to bind best with 
+          clones number 1, 7, 8, and 17 will be able to bind best with{" "}
           <i>R.solanacearum</i> . This is because they were the most distinct
           when compared to the PBS control.
         </p>

@@ -140,7 +140,7 @@ function Engineering({}) {
           requires a vector, an insert, T4 ligase buffer, T4 ligase, and
           molecular water. Once these have been acquired and mixed together, it
           is to be incubated for 16 hours at 16°C overnight. In this case, the
-          vector is the pET-32a, and the insert is the modified bombolitin. 
+          vector is the pET-32a, and the insert is the modified bombolitin.
         </p>
         <div class="sizedbox20"></div>
 
@@ -178,7 +178,7 @@ function Engineering({}) {
           not of the expected band size either. This implied that the plasmid
           was just the empty vector, since the band size was smaller than
           expected, when combined with the insert, the band size should
-          increase. 
+          increase.
         </p>
         <div class="center-horizontal">
           <img
@@ -186,7 +186,7 @@ function Engineering({}) {
             class="fitimage1"
           />
           <p class="fitimage1">
-            Size of the bands did not line up with what was expected. 
+            Size of the bands did not line up with what was expected.
           </p>
         </div>
         <div class="sizedbox20"></div>
@@ -198,7 +198,7 @@ function Engineering({}) {
           vector to insert was changed to 1:2, where we used 4µL of the vector
           with 8µL of the insert and 3µL of the vector with 6µL of the insert.
           With this new ratio, we were able to get the expected band size
-          because we decreased the vector, while keeping the insert the same. 
+          because we decreased the vector, while keeping the insert the same.
         </p>
         <div class="sizedbox20"></div>
 
@@ -212,8 +212,8 @@ function Engineering({}) {
         <div class="sizedbox20"></div>
         <p class="indented1">
           The Group 2 (Kasetsart University) Lab&#39;s goal is to determine
-          which nanobodies bind best with the target bacteria: 
-          <i>Ralstonia (R.solanacearum)</i>. These nanobodies will be used as a
+          which nanobodies bind best with the target bacteria:
+          <i> Ralstonia (R.solanacearum)</i>. These nanobodies will be used as a
           target binding antibody in order to fight against bacteria wilt.
           Through biopanning, the values of the various nanobodies that bind
           best with the target bacteria will be identified and measured. The
@@ -242,8 +242,8 @@ function Engineering({}) {
         <h2 class="header1">Build</h2>
         <div class="sizedbox20"></div>
         <p class="indented1">
-          In order to determine which nanobody binds best with 
-          <i>R.solanacearum</i> bacteria to combat bacterial wilt, biopanning
+          In order to determine which nanobody binds best with
+          <i> R.solanacearum</i> bacteria to combat bacterial wilt, biopanning
           must be performed twice. <i>R.solanacearum</i> will be prepared as a
           bacteria chain in the form of 96 well plates using a coating buffer
           that was previously prepared to infect <i>E. coli.</i> The
@@ -252,7 +252,7 @@ function Engineering({}) {
           better fit for the experimental procedures. After determining the
           values of the antibodies, 20 random colonies will be selected to test
           for binding capacity through Indirect Enzyme-Linked Immunosorbent
-          Assay (ELISA). 
+          Assay (ELISA).
         </p>
 
         <div class="sizedbox20" />

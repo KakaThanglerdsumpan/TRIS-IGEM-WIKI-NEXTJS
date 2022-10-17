@@ -22,7 +22,15 @@ function MembersPage({ children }) {
                   class="blob stackedchild"
                 />
                 <p class="stackedchild white blobtext">
-                Hello! We are team Thailand_RIS from Bangkok, Thailand. Our team consists of sophomores, juniors, and seniors from Ruamrudee International School who all share the same passion for synthetic biology. As a first year team we are so thankful for being given the chance to work alongside real, professional scientists, helping us towards our goal. This experience and all the things we have learned throughout the journey will forever be a score memory for all of us as we think back to high school.
+                  Hello! We are team Thailand_RIS from Bangkok, Thailand. Our
+                  team consists of sophomores, juniors, and seniors from
+                  Ruamrudee International School who all share the same passion
+                  for synthetic biology. As a first year team we are so thankful
+                  for being given the chance to work alongside real,
+                  professional scientists, helping us towards our goal. This
+                  experience and all the things we have learned throughout the
+                  journey will forever be a score memory for all of us as we
+                  think back to high school.
                 </p>
               </div>
             </div>
@@ -56,7 +64,7 @@ function MembersPage({ children }) {
                 in the team include organizing and looking over the plans of the
                 project as well as helping the team with any problems that may
                 arise. I am forever grateful for my iGEM experience and all of
-                my teammates. 
+                my teammates.
               </p>
             </div>
           </div>
@@ -287,7 +295,8 @@ function MembersPage({ children }) {
             <h5 class="membertag align-right">Wiki Member</h5>
             <div class="row1">
               <p class="member-text align-right">
-              Thamognya Kodi is a sophomore at Ruamrudee International School. Working as one of the two coders in Thailand_RIS
+                Thamognya Kodi is a sophomore at Ruamrudee International School.
+                Working as one of the two coders in Thailand_RIS
               </p>
               <img
                 src="https://static.igem.wiki/teams/4314/wiki/thamognya.jpg"
@@ -471,7 +480,14 @@ function MembersPage({ children }) {
             class="teampic-narrow"
           />
           <p>
-          Hello! We are team Thailand_RIS from Bangkok, Thailand. Our team consists of sophomores, juniors, and seniors from Ruamrudee International School who all share the same passion for synthetic biology. As a first year team we are so thankful for being given the chance to work alongside real, professional scientists, helping us towards our goal. This experience and all the things we have learned throughout the journey will forever be a score memory for all of us as we think back to high school.
+            Hello! We are team Thailand_RIS from Bangkok, Thailand. Our team
+            consists of sophomores, juniors, and seniors from Ruamrudee
+            International School who all share the same passion for synthetic
+            biology. As a first year team we are so thankful for being given the
+            chance to work alongside real, professional scientists, helping us
+            towards our goal. This experience and all the things we have learned
+            throughout the journey will forever be a score memory for all of us
+            as we think back to high school.
           </p>
 
           <div class="sizedbox60" />
@@ -501,7 +517,7 @@ function MembersPage({ children }) {
                 in the team include organizing and looking over the plans of the
                 project as well as helping the team with any problems that may
                 arise. I am forever grateful for my iGEM experience and all of
-                my teammates. 
+                my teammates.
               </p>
             </div>
           </div>
@@ -717,7 +733,8 @@ function MembersPage({ children }) {
                 class="memberimage"
               />
               <p class="member-text align">
-              Thamognya Kodi is a sophomore at Ruamrudee International School. Working as one of the two coders in Thailand_RIS
+                Thamognya Kodi is a sophomore at Ruamrudee International School.
+                Working as one of the two coders in Thailand_RIS
               </p>
             </div>
           </div>
@@ -806,7 +823,7 @@ function MembersPage({ children }) {
                 src="https://static.igem.wiki/teams/4314/wiki/screen-shot-2565-10-14-at-00-52-54.png"
                 class="memberimage olivier1"
               />
-               <img
+              <img
                 src="https://static.igem.wiki/teams/4314/wiki/olivier.png"
                 class="memberimage olivier2"
               />

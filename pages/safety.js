@@ -34,7 +34,7 @@ function Safety({ children }) {
         <div class="myheader">
           <div class="rounded-container">
             <h1 class="header2">
-              Specific materials including potential risks: 
+              Specific materials including potential risks:
             </h1>
           </div>
           <div class="circle1"></div>

@@ -11,7 +11,7 @@ function Implementation({ children }) {
           <b>
             Our project ultimately aims to produce a product that could
             substitute the use of chemical pesticides to combat bacterial wilt.
-            We found that bombolitin has the potential to effectively combat 
+            We found that bombolitin has the potential to effectively combat{" "}
             <i>Ralstonia solanacearum</i>. With this information, we genetically
             modified <i>E. coli</i>
             to produce modified bombolitin with increased hydrophobicity,
@@ -33,7 +33,7 @@ function Implementation({ children }) {
           At the current stage of our project, the modified bombolitin
           antimicrobial peptide has not been developed into a product yet.
           However, looking at the results of in-vitro testing, the modified
-          bombolitin antimicrobial peptide is capable of inhibiting 
+          bombolitin antimicrobial peptide is capable of inhibiting{" "}
           <i>Ralstonia</i>. Since there are currently no other effective ways to
           solve the problem of bacterial wilt, our project will be beneficial to
           producers of solanaceous crops. If developed into a product, the

@@ -16,8 +16,8 @@ function HumanPractices({ children }) {
         <p class="indented1">
           One of the core segments that iGEM wishes teams to work upon requires
           us to reflect on multiple standards, with the most important idea
-          being &quot;how does your work affect the world, and how the world affects
-          your work.&quot;
+          being &quot;how does your work affect the world, and how the world
+          affects your work.&quot;
         </p>
         <div class="sizedbox20" />
         <p class="indented1">
@@ -41,8 +41,8 @@ function HumanPractices({ children }) {
           types of people that grant us new perspectives allowing us to improve
           upon our project; a chance for us to reflect upon the project and the
           effects that it can have on these new perspectives. A chance for us to
-          potentially change people&apos;s lives. A chance for us to have an impact
-          upon the world.
+          potentially change people&apos;s lives. A chance for us to have an
+          impact upon the world.
         </p>
         <div class="sizedbox20" />
         <p class="indented1">
@@ -85,7 +85,8 @@ function HumanPractices({ children }) {
           conditions that the peptide will be used in, since it could denature
           at high temperatures. Considering Thailand&apos;s warm climate, this
           perspective was very beneficial.
-          <b>{" "}
+          <b>
+            {" "}
             From this feedback, we were able to brainstorm the idea of applying
             the antimicrobial peptide on the crops exclusively at night,
             eliminating the possibility of denaturation.
@@ -118,12 +119,13 @@ function HumanPractices({ children }) {
           cancer. He also noted that organic pesticides might not take effect as
           fast as chemical pesticides, so the consistent use of our
           antimicrobial peptide will be needed in order to see noticeable
-          results. 
-          <b>{" "}
+          results.
+          <b>
+            {" "}
             From this, we decided that if the product were to be used in real
             life, it would need to be applied to the crop regularly, unlike
             chemical pesticides.
-          </b> {" "}
+          </b>{" "}
           Furthermore, the company that he works for is also manufacturing herb
           extracts to combat against plant pathogenic bacteria, so he will be
           very beneficial to the development of our research. He also gave
@@ -163,8 +165,9 @@ function HumanPractices({ children }) {
           scissors that were used to cut infected plants to cut uninfected
           plants. It can even spread through water irrigation systems. In order
           to combat this, she suggested that we use a combination of various
-          solutions. 
-          <b>{" "}
+          solutions.
+          <b>
+            {" "}
             Along with our initial antimicrobial peptide, we could use non-uv
             plastic to cover up the crops, helping to prevent the growth of
             bacteria through heat, while also utilizing crop rotation
@@ -178,7 +181,7 @@ function HumanPractices({ children }) {
           the solanaceous crops, as <i>Ralstonia</i> is able to live in the soil
           for a long time, even after the crops die. With all of these
           techniques working in conjunction, we believe that it will achieve the
-          optimum results. 
+          optimum results.
         </p>
         <div class="sizedbox20" />
 
@@ -208,8 +211,9 @@ function HumanPractices({ children }) {
           the district agricultural officer are inadequate due to them not
           understanding bacterial wilt completely. Having not received any
           profits back from his investment, Mr. Kaseem also revealed that he
-          felt discouraged in his efforts to grow pepper. 
-          <b>{" "}
+          felt discouraged in his efforts to grow pepper.
+          <b>
+            {" "}
             Other than suggesting that he should try crop rotation this year, we
             also decided to educate people about what bacterial wilt actually is
             in our brochure and educational outreach aspects of the project.
@@ -245,8 +249,9 @@ function HumanPractices({ children }) {
           were brought up, since many Thai people are still skeptical about the
           safety of modified organisms. He mentioned that in order to make
           people trust in our product, we should educate them, and get an
-          endorsement from the government. 
-          <b>{" "}
+          endorsement from the government.
+          <b>
+            {" "}
             Since we are not able to go to the level of working with the
             government just yet, we decided that we could educate people through
             our brochure, and teach the next generation about what synthetic
@@ -283,8 +288,9 @@ function HumanPractices({ children }) {
           to chemical pesticides. Furthermore, chemical pesticides make the
           crops look nicer, while organic pesticides leave minimal aesthetic
           flaws. This could lead consumers to think that chemical pesticides are
-          better. 
-          <b>{" "}
+          better.
+          <b>
+            {" "}
             Since we were planning to conduct a public survey at a local market,
             this was something that we had to keep in mind since she also
             mentioned that some businesses lie about their use of chemical
@@ -320,8 +326,9 @@ function HumanPractices({ children }) {
           stalls that looked a bit suspicious, since all their crops looked
           perfect, without any bite marks from worms or insects at all. This
           could mean that the stalls lied about the use of chemical pesticides,
-          they genuinely do not know, or maybe it really was organic farming. 
-          <b>{" "}
+          they genuinely do not know, or maybe it really was organic farming.
+          <b>
+            {" "}
             We believe that all of these stalls have to promote their products
             as organic in order to be able to sell to their customers, even if
             some may not be completely true, since there was no way for
@@ -355,7 +362,7 @@ function HumanPractices({ children }) {
           it. Their opinions about synthetic biology seem to be split in half,
           with half of the people supporting synthetic biology and the other
           half going against synthetic biology. Since this was a small sample,
-          we needed to find a way to collect more data. 
+          we needed to find a way to collect more data.
         </p>
         <div class="sizedbox20" />
         <h1 class="header1">Google Form Survey</h1>
@@ -436,8 +443,9 @@ function HumanPractices({ children }) {
           unsure about the use of synthetic biology. Even though most of the
           people doing this google form are aware of the negative effects of
           pesticides, nearly half of those people are still doubting synthetic
-          biology. 
-          <b>{" "}
+          biology.
+          <b>
+            {" "}
             From this, we have realized that what Mr. Yutthana said was true,
             and educating people about synthetic biology should be one of the
             main goals of our project.
@@ -459,8 +467,9 @@ function HumanPractices({ children }) {
           majority of the people do. Relating back to the previous question,
           this means that people do care about finding an alternative to
           pesticides, but half of them do not think that synthetic biology is
-          the answer. 
-          <b>{" "}
+          the answer.
+          <b>
+            {" "}
             This demonstrates the need to change the negative stigma against
             synthetic biology in Thailand.
           </b>
@@ -478,7 +487,8 @@ function HumanPractices({ children }) {
           affected their decision of choosing pesticides or not, 86.3% of the
           people said that they would rather pay more in order to buy a product
           that has not been exposed to pesticides.
-          <b>{" "}
+          <b>
+            {" "}
             This was the same information that we received from our local survey
             at Sammakorn, so we are able to conclude that price is not a problem
             for people in Thailand, as long as they are able to gain access to
