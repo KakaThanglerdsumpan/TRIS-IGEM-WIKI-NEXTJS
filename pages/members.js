@@ -161,10 +161,10 @@ function MembersPage({ children }) {
           </div>
 
           <div class="member-column-right">
-            <h2 class="membertag align right">Bhu Pasu Limsiwilai</h2>
-            <h5 class="membertag align right">Wiki Member</h5>
+            <h2 class="membertag align-right">Bhu Pasu Limsiwilai</h2>
+            <h5 class="membertag align-right">Wiki Member</h5>
             <div class="row1">
-              <p class="member-text">
+              <p class="member-text align-right">
                 Hello! My name is Bhu, a senior at Ruamrudee International
                 School and I am the main editor for the wiki team. Being able to
                 come up with creative solutions to real world problems has been
