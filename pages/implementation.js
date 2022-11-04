@@ -56,15 +56,15 @@ function Implementation({ children }) {
         </div>
         {/* HEADER */}
         <div class="sizedbox10" />
-        {/* PARAGRAPH */}
+        
         <p class="indented">
           When discussing the possibility of developing the modified bombolitin
           into a product, effectiveness and viability of the final product have
           to be considered.
         </p>
-        {/* PARAGRAPH */}
+        
         <div class="sizedbox20" />
-        {/* PARAGRAPH */}
+        
         <p class="indented">
           Firstly, taking into account that our potential product will be mainly
           consisting of peptides, there are specific temperatures and pH levels
@@ -75,9 +75,9 @@ function Implementation({ children }) {
           also be identified. However, further testing is required before
           finalizing all components.
         </p>
-        {/* PARAGRAPH */}
+        
         <div class="sizedbox20" />
-        {/* PARAGRAPH */}
+        
         <p class="indented">
           Secondly, shelf life could be a big challenge if the modified
           bombolitin were to be developed into a product. When kept at room
@@ -86,9 +86,9 @@ function Implementation({ children }) {
           for the majority of farmers, since they would need constant access to
           a freezer.
         </p>
-        {/* PARAGRAPH */}
+        
         <div class="sizedbox20" />
-        {/* PARAGRAPH */}
+        
         <p class="indented">
           Finally, we have to consider commercial usage. Statistically, the
           demand of the product should be high. However, farmers may be
@@ -102,7 +102,7 @@ function Implementation({ children }) {
           find a profitable competitive price for the potential product which
           would very well be more expensive than commercial chemical pesticides.
         </p>
-        {/* PARAGRAPH */}
+        
       </div>
       <div class="sizedbox40" />
     </div>
