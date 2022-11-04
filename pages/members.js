@@ -1,4 +1,3 @@
-import Head from "next/head";
 function MembersPage({ children }) {
   return (
     <div>
@@ -9,7 +8,7 @@ function MembersPage({ children }) {
 
         <div class="sizedbox60" />
         <div class="row spacebetween">
-          {/* ADD TEAM PIC LINK */}
+
           <img
             src="https://static.igem.wiki/teams/4314/wiki/group-photo-fun.jpg"
             class="teampic"

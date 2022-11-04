@@ -17,11 +17,9 @@ const HomePage = ({ children }) => {
         </div>
       </div>
       <div class="sizedbox100" />
-      <a href="">
-        <h1 class="heading" align="center">
-          PROMOTIONAL VIDEO
-        </h1>
-      </a>
+      <h1 class="heading" align="center">
+        PROMOTIONAL VIDEO
+      </h1>
       <div class="stack">
         <img
           src="https://static.igem.wiki/teams/4314/wiki/blob-1.svg"
