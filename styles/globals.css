@@ -93,6 +93,7 @@ p {
   align-items: center;
 }
 
+
 .center1 {
   align-items: center;
   justify-content: center;
@@ -150,6 +151,7 @@ p {
   align-self: center;
   padding: auto;
   height: 100vh;
+  max-height: 800px;
   width: 100%;
   background: linear-gradient(to right bottom, rgb(63, 81, 181), white);
 }
@@ -395,6 +397,22 @@ p {
   display: flex;
   flex-direction: row;
 }
+.awardRow{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-evenly;
+}
+
+.awardColumn {
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: space-between;
+}
+
 .column {
   display: flex;
   flex-direction: column;
@@ -406,11 +424,26 @@ p {
   color: #6987c9;
   text-align: left;
 }
-
+.tenIcon{
+  font-weight: bold;
+  font-size: 100px;
+  color: #6987c9;
+}
 .membertag1 {
   font-family: "druk";
   color: #6987c9;
   text-align: left;
+}
+
+.award{
+  font-weight: bold;
+  font-size: 22px;
+  text-align: center;
+}
+
+.margin{
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .member-column {
@@ -667,6 +700,7 @@ p {
   justify-content: space-between;
 }
 
+
 .indented-list {
   margin: 5px 10vw;
 }
@@ -880,3 +914,24 @@ p {
     font-size: 18px;
   }
 }
+.wideScreen{
+  display: show;
+}
+
+@media  screen and (min-width: 805px) {
+  .narrowScreen{
+    display: none;
+  }
+  
+}
+
+@media screen and (max-width: 805px) {
+  .wideScreen{
+    display: none;
+  }
+  .narrowScreen{
+    display: show;
+  }
+}
+
+
